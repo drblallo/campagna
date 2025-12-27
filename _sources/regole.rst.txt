@@ -1,0 +1,34 @@
+Regole campagna
+===============
+
+Il contenuto di questa pagina è aspirazionale e soggetto a cambiamenti.
+Per raggiungere gli obiettivi indicati, la campagna è strutturata come segue:
+
+* **La campagna include circa 4 giocatori più un Game Master.**
+  Poiché uno degli obiettivi principali è la creazione di narrative
+  personalizzate, il numero di partecipanti è volutamente limitato. Il Game
+  Master non partecipa direttamente come giocatore, ma prepara missioni
+  narrative speciali quando il numero di giocatori disponibili è dispari.
+  **Esempio**: se un giocatore non può partecipare a una partita, il suo
+  potenziale avversario giocherà una missione in solitaria in cui dovrà
+  eliminare il maggior numero possibile di Gaunt Tiranidi in 4 turni, controllati dal master.
+* **La campagna dura 10 sessioni settimanali.**
+  L’obiettivo è concluderla in prossimità del rilascio dell’11ª edizione.
+* **La campagna segue integralmente le regole Crusade e tutti i documenti
+  ufficiali GW.**
+* **Il Game Master fornisce missioni con regole speciali.**
+  Per rafforzare la sensazione di continuità narrativa, il Game Master prepara
+  settimanalmente missioni personalizzate i cui risultati influenzano la
+  storia complessiva della campagna. **Esempio**: se un giocatore Space Marine
+  aggiunge un Land Raider al proprio esercito tramite le regole Crusade, la
+  prima partita in cui tale unità viene schierata potrà includere regole
+  speciali dedicate, rendendo l’introduzione del veicolo parte integrante
+  della narrazione.
+* **Ogni giocatore ha un obiettivo narrativo unico.**
+  All’inizio della campagna, ogni partecipante comunica al Game Master
+  l’obiettivo narrativo della propria fazione. **Esempio**: un giocatore degli
+  ``Emperor’s Children`` potrebbe avere come obiettivo la consacrazione di un
+  pianeta a Slaanesh. Le missioni a cui parteciperà saranno quindi legate alla
+  preparazione e al completamento del rituale di consacrazione.
+* **Il bilanciamento avviene tramite la creazione di scenari assimmetrici**: 
+  Se si dovesse verificare una situazione in cui un giocatore vince facilmente molteplici partite, anzichè limitare l'esercito di quel giocatore intervenendo sulle regole della sua fazione, missioni sempre più difficili gli saranno assegnate fino a raggiungere un equilibrio con gli altri giocatori. **Esempio:** Se un giocatore di `Eldar Oscuri` vince 3 partite consecutivamente, la partita successiva potrebbe richiede al giocatore di schierare il suo intero esercito per primo, ma se tale giocatore vince la partita, ottiene punti crociata extra.

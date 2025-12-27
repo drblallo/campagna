@@ -1,0 +1,37 @@
+.. campagna40k documentation master file, created by
+   sphinx-quickstart on Sat Dec 27 20:34:03 2025.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Descrizione della campagna
+==========================
+
+Questo documento descrive la struttura ipotetica di una campagna narrativa di
+``Warhammer 40.000: Crusade``, con l’obiettivo di permettere al lettore di
+valutare se sia interessato a parteciparvi.
+
+Obiettivi
+~~~~~~~~~
+
+La campagna ha i seguenti obiettivi:
+
+* **Offrire partite narrative fino al rilascio dell’11ª edizione**.
+* **Creare una narrativa asimmetrica e distinta per ciascun giocatore.**
+  Ad esempio: un giocatore Orki potrebbe voler sconfiggere tutti i nemici più
+  forti della campagna, mentre un giocatore di Nurgle potrebbe puntare
+  all’ascesa del proprio campione a Principe Demone. Ogni giocatore dispone di
+  meccaniche speciali per raggiungere il proprio obiettivo.
+* **Permettere l’uso di qualsiasi documento ufficiale GW** (codex, manuali
+  Crusade, Legends, ecc.). Una delle aspirazioni della campagna è consentire ai
+  giocatori di vedere il proprio esercito espandersi e trasformarsi, senza
+  limitazioni nella creazione delle liste.
+* **Mantenere la campagna equilibrata senza modificare le regole degli
+  eserciti.** Non è intento della campagna limitare le possibilità dei
+  giocatori né penalizzare chi individua sinergie o combinazioni efficaci.
+
+
+.. toctree::
+   :maxdepth: 2
+
+   ./regole.rst
+   ./esempio_missione.rst
