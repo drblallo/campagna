@@ -2,12 +2,12 @@ Regole campagna
 ===============
 
 Il contenuto di questa pagina è aspirazionale e soggetto a cambiamenti.
-Per raggiungere gli obiettivi indicati, la campagna è strutturata come segue:
+Per raggiungere gli obiettivi indicati nella :doc:`index`, la campagna è strutturata come segue:
 
 * **La campagna include circa 4 giocatori più un Game Master.**
   Poiché uno degli obiettivi principali è la creazione di narrative
   personalizzate, il numero di partecipanti è volutamente limitato. Il Game
-  Master non partecipa direttamente come giocatore, ma prepara missioni
+  Master non partecipa direttamente come giocatore, prepara missioni per i giocatori. Inoltre prepara e conduce missioni 
   narrative speciali quando il numero di giocatori disponibili è dispari.
   **Esempio**: se un giocatore non può partecipare a una partita, il suo
   potenziale avversario giocherà una missione in solitaria in cui dovrà
@@ -32,3 +32,25 @@ Per raggiungere gli obiettivi indicati, la campagna è strutturata come segue:
   preparazione e al completamento del rituale di consacrazione.
 * **Il bilanciamento avviene tramite la creazione di scenari assimmetrici**: 
   Se si dovesse verificare una situazione in cui un giocatore vince facilmente molteplici partite, anzichè limitare l'esercito di quel giocatore intervenendo sulle regole della sua fazione, missioni sempre più difficili gli saranno assegnate fino a raggiungere un equilibrio con gli altri giocatori. **Esempio:** Se un giocatore di `Eldar Oscuri` vince 3 partite consecutivamente, la partita successiva potrebbe richiede al giocatore di schierare il suo intero esercito per primo, ma se tale giocatore vince la partita, ottiene punti crociata extra.
+
+Requsiti obbligatori
+~~~~~~~~~~~~~~~~~~~~
+I giocatori **devono**:
+
+* conoscere le regole delle fazioni che intendono giocare.
+* conoscere le regole della modalità `crociata`_ che intendono utilizzare.
+* possedere i modelli che intendono utilizzare, non necessariamente dipinti.
+* accordarsi con il loro avversario per condurre la partita assegnata, entro una settimana dall'assegnamento.
+
+Requsiti opzionali
+~~~~~~~~~~~~~~~~~~
+
+I giocatori **possono**:
+
+* **Fornire elementi scenici dipinti da integrare nella narrativa.**
+  **Esempio**: Un giocatore `Necron` fornisce degli elementi scenici a tema Necron. Tali elementi scenici verranno usati in una o più partite e avranno in quelle partite regole speciali uniche.
+* **Usare modelli dipinti di una fazione distinta da quella giocata, ma che possono ragionevolmente essere alleati della fazione giocata.**
+  **Esempio**: Un giocatore di `Space Wolf` che possiede modelli `Adepta Sororitas` può aggiungere tali modelli al suo esercito di `Space Wolf`, a seguito di avere giocato una missione dove tali `Space Wolf` aiutano in qualche maniera l'`Adepta Sororitas`
+* **Usare modelli dipinti di una fazione distinta da quella giocata come elementi narrativi.** **Esempio**: un giocatore di `Chaos Space Marine` può fornire modelli di `Space Marine` lealisti che posside, per creare una missione in cui l'obbiettivo del giocatore è uccidere tali marine, mentre l'obbiettivo dell'avversario è salvarli.
+
+.. _crociata: https://wahapedia.ru/wh40k10ed/the-rules/crusade-rules/
