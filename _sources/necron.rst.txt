@@ -1,0 +1,10 @@
+Guardia Della Morte
+~~~~~~~~~~~~~~~~
+
+$NOME_DG_LEADER è il Chaos Lord della banda da guerra $BANDA_DA_GUERRA, che da secoli infesta il **Segmentum Pacificus**, spargendo virus e malattie.
+
+L'arrivo della flotta alveare **Leviathan** ha destabilizzato le attività della banda da guerra. Popolosi pianeti che un tempo offrivano colture in cui far crescere piaghe forti e prospere ora sono ridotti a mondi morti e rocciosi.
+
+$NOME_DG_LEADER ha allora organizzato un piano: un ultimo ciclo di gioiose pandemie, un'ultima visita ai mondi che verranno divorati da **Leviathan**, così che gli abitanti possano sperimentare i doni di Nonno Nurgle prima della fine.
+
+Mentre la banda si prepara a consacrare **Talmael** al loro patrono, l'intervento accidentale di una flotta di **Adeptus Custodes** e **Lupi Siderali** offre un'opportunità. Se fosse possibile nascondere un morbo a bordo delle loro navi, forse tale malattia potrebbe diffondersi tra le schiere imperiali, ben oltre i confini di **Talmael**, magari in tutto il sottosettore Bastior.

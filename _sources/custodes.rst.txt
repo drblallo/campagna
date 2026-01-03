@@ -1,0 +1,7 @@
+Adeptus Custodes
+~~~~~~~~~~~~~~~~
+
+$NOME_GRUPPO_CUSTODES è un piccolo esercito di Adeptus Custodes assegnato a **Solblade Blackmane** da **Trajan Valoris**. Data la semplicità della missione, un mero riposizionamento di forze imperiali, i più sospettosi tra **Lupi Siderali** ritengono che i pretoriani abbiano l'obbiettivo di spiare sulle loro attività, e che l'alto comando imperiale abbia sfiducia nei confronti dei **Fenrisiani**.
+
+Gli space marine sono in errore, gli uomini di $CAPITANO_CUSTODES non hanno alcun dubbio riguardo la leatà dei figli di Russ. Il loro copito è invece duplice, il primo è assicurarsi che i cavaliere imperiali della casata $NOME_CASATA_KNIGHTS vengano estratti dal pianeta, anche a costo di eliminare eventuali piloti che non desiderano abbandonare il loro mondo. Il secondo obbiettivo è impedire che i resti di **Yannulf** vengano ispezionati, e venga rivelato il segreto che esso cela.
+

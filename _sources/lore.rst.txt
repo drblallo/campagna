@@ -1,0 +1,43 @@
+Background
+==========
+
+La campagna è ambientata nella `4a guerra tirannica`_, durante l'avanzata di flotta alveare Leviathan verso il sottosettore `Bastior`_, all'estremità del Segmentum Pacificus.
+
+.. figure:: _static/imgs/GalaxyMap.webp
+   :width: 800px
+   :align: center
+
+   La freccia blu indica la locazione del sottosettore Bastior.
+
+L'improvvisa avanzata aliena ha richiesto alle armate imperiali di focalizzare le difese su pochi mondi altamente difendibili, come **Sanctum**, il pianeta capitolare dei **Templari Bianchi**. Le `Solblade`_, piccole flotte di intervento rapido, conducono operazioni speciali, come l'estrazione di tutte le risorse possibili da pianeti che l'Imperium non può difendere.
+
+La campagna copre le attività di una di tali **Solblade**, comandata dai **Lupi Siderali**, e supportata dagli **Adeptus Custodes**. Il loro obiettivo è raggiungere **Talmael**, un pianeta minore collocato sul percorso di **Leviathan**, estrarre la casata $NOME_CASATA di **Cavalieri Imperiali**, l'ordine $NOME_ORDINE dell' **Adepta Sororitas**, e i resti di **Lord Lupo Yannulf**.
+
+Mentre la presenza di **Culti Genoraptor** e elementi di infiltrazione **tiranide** è attesa, **Solblade Blackmane** non ha idea che altre potenze abbiano piani diversi per il futuro di **Talmael**.
+
+Talmael
+~~~~~~~~
+
+.. figure:: _static/imgs/Talmael.jpg
+   :width: 800px
+   :align: center
+
+**Talmael** è un pianeta all'interno del sotto settore **Bastior**. Il mondo ospita 150 milioni di abitanti, concentrati principalmente in una singola città, e attorno ai laghi nelle sue vicinanze.
+
+
+Lord Lupo Yannulf
+-----------------
+Lord Yannulf è stato comandante di una grande compagnia nel 34esimo millenio. L'esatta storia della sua vita è divenuta leggenda, e non è chiaro quante delle saghe narrate dai lupi siderali siano veritiere, e quali invece siano abbellite.
+
+L'ultima missione di **Yannulf** è avvenuta su **Talmael**, nella **battaglia della Rokka**, dove è morto uccidendo a sua volta uno **Squiggoth gigantesco**.
+
+Il corpo del lupo non venne recuperato immediatamente, ma solo dopo anni dalla fine della guerra, quando ormai i suoi confratelli avevano già lasciato il pianeta. Gli uomini nativi del pianeta costruirono un mausoleo al capitano, dove tutt'ora riposa.
+
+Dalla fine delll'era della apostasia, **Talmael** ospita un ordine di **Adeptus Sororitas**. Il mausoleo di Yannulf, chiamato il **tempio del lupo**, è divenuto un loro dominio.
+
+
+
+.. _4a guerra tirannica: https://wh40k.lexicanum.com/wiki/Tyrannic_Wars#Fourth_Tyrannic_War
+.. _Bastior: https://wh40k.lexicanum.com/wiki/Bastior_Sub-sector
+.. _Solblade: https://wh40k.lexicanum.com/wiki/Solblade
+

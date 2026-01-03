@@ -35,3 +35,8 @@ La campagna ha i seguenti obiettivi:
 
    ./regole.rst
    ./esempio_missione.rst
+   ./lore.rst
+   ./custodes.rst
+   ./sw.rst
+   ./cavaglieri.rst
+   ./necron.rst
