@@ -1,10 +1,68 @@
-Guardia Della Morte
-~~~~~~~~~~~~~~~~
+Reietti di Fecundus
+~~~~~~~~~~~~~~~~~~~
 
-$NOME_DG_LEADER è il Chaos Lord della banda da guerra $BANDA_DA_GUERRA, che da secoli infesta il **Segmentum Pacificus**, spargendo virus e malattie.
 
-L'arrivo della flotta alveare **Leviathan** ha destabilizzato le attività della banda da guerra. Popolosi pianeti che un tempo offrivano colture in cui far crescere piaghe forti e prospere ora sono ridotti a mondi morti e rocciosi.
+Pater Fecundus l’Inesauribile
+=================================
+Demone Maggiore di Nurgle alla ricerca della **Prigione Celeste**, un artefatto nell'universo materiale in cui il suo amato cugino demone **Arioch'atal** è stato improgionato da **Mortarion**. La posizione e natura della **Prigione Celeste** non è nota, ma voci nel warp sussurrano il nome dell'ultimo mortale ad avere toccato la prigione: **Yannulf**.
 
-$NOME_DG_LEADER ha allora organizzato un piano: un ultimo ciclo di gioiose pandemie, un'ultima visita ai mondi che verranno divorati da **Leviathan**, così che gli abitanti possano sperimentare i doni di Nonno Nurgle prima della fine.
+Phagex il Reietto
+=================
+Un Plague Lord decaduto per via dei suoi fallimenti durante al 12esima crociata nera. Phagex ha perso sia il favore di nurgle, con la conseguenza che molti dei suoi sottoposti sono stati ridotti a Chaos Spawn, sia dalla sua legione, che lo ha abbandonato. Monito vivente della collera del Dio della Peste, Phagex controlla ora solo un piccolo contingente di Astartes e sempre più si trova costretto a fare affidamento alle creature del warp per sostenere la sua armata.
 
-Mentre la banda si prepara a consacrare **Talmael** al loro patrono, l'intervento accidentale di una flotta di **Adeptus Custodes** e **Lupi Siderali** offre un'opportunità. Se fosse possibile nascondere un morbo a bordo delle loro navi, forse tale malattia potrebbe diffondersi tra le schiere imperiali, ben oltre i confini di **Talmael**, magari in tutto il sottosettore Bastior.
+
+L'accordo di Fecundus
+=====================
+
+Al fine di non destare l'attenzione di **Mortarior**, il quale si opporrebbe alla liberazione di **Arioch'atal**, **Pater Fecundus** ha stretto un patto con **Phagex il Reietto**, lord decaduto della **guardia della morte**. 
+
+Phagex guiderà la sua banda da guerra, investigando il significato del nome **Yannulf**. Al compimento della missione, **Pater Fecundus** intercederà presso **nonno Nurgle** per concedere a **Phagex** di ascendere a principe demone.
+
+
+A supervisionare il patto è **Chirax il Contabile**, Tallyman e agente diretto di **Fecundus**. **Chirax** accompagna **Phagex** in ogni campagna, registra vittorie, fallimenti, sacrifici e deviazioni dal mandato originale. 
+
+Le investigazioni di **Phagex** suggeriscono che **Yannulf** sia stato un capitano di una grande compagnia di **Lupi Siderali**, e che la sua tomba si trovi sul mondo di **Talmael**. Così la banda da guerra si muove a portare rovina al pianeta, apparentemente come una delle tante forze della Death Guard attratte dalla rovina e dalla pestilenza della guerra tirannica. 
+
+
+Ordine di armata
+================
+
+* Outbreak: Hive world: Fecundity 3, Population 5, Vulnerability 2, Sustainability 10
+* Limite punti: 1000
+* Punti Requisizione: 5
+
+.. list-table:: 
+   :widths: 5 1 10
+   :header-rows: 1
+
+   * - Nome
+     - Exp
+     - Contenuto
+   * - Phagex Il Reietto 
+     - 0
+     - * 1x Lord of Contagion
+   * - Pater Fecundus 
+     - 0
+     - * 1x Grande Immondo con Bilesword e Plague flail
+   * - Chirax Il Contabile 
+     - 0
+     - * 1x Tallyman
+   * - Deathshroud Terminators
+     - 0
+     - * 1x Deathshroud Terminator Champion: Icon of Despair, Plaguespurt gauntlet
+       * 2x Deathshroud Terminator
+
+   * - Poxwalkers
+     - 0
+     - * 10x Poxwalker
+   * - Bestia di Nurgle
+     - 0
+     -
+
+   * - Chaos Spawn
+     - 0
+     - * 2x Chaos spawn
+
+   * - Myphitic Blighthauler
+     - 0
+     - * 2x Myphitic Blight-hauler

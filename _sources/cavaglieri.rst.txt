@@ -1,6 +1,40 @@
-Cavalieri Imperiali
+Warhawks` Lance
 ~~~~~~~~~~~~~~~~
 
-Da decidere 
+
+Casa Hawkshroud è da millenni famosa nell'Imperium per la sua assoluta dedizione nel rispondere a qualsiasi richiesta d'aiuto giunga da suoi alleati. Così facendo, nel tempo, ha guadagnato il diritto di vantare onoreficienze da dozzine di reggimenti di Guardia, vari capitoli di Space Marine e anche una da un Ordine dell'Adepta Sororitas. 
+
+Allo scoppio della 4a guerra tirannica, i piloti della casata sono ritornati al loro mondo natale **Talmael**, il quale si trova sulla rotta stimata di flotta alveare **Leviathan**. Poco dopo il ritorno dei camminatori, **Talmael** venne designato dall'imperium come **pianeta già perso** in seguito a un rapporto scritto dallo **Shield-captain Caloxor**, in cui riteneva improbabile che sufficienti difese potessero venire costruite sul pianeta prima dell'arrivo delle navi aliene.
+
+**Sir Hawkwood**, figlio di un ramo cadetto, tentò di influenzare l'alto comando al fine includere **Talmael** nei pianeti considerati difendibili. Le preghiere di aiuto sempre piu disperate dei cavalieri caddero nel vuoto. I piloti che tanto riponevano valore nel soccorrere i loro alleati, si rendono ora conto che nessuno dei loro alleati a soccorrere loro.
 
 
+
+Ordine di armata
+================
+
+* Limite punti: 1000
+* Punti Requisizione: 5
+
+.. list-table:: 
+   :widths: 5 1 10
+   :header-rows: 1
+
+   * - Nome
+     - Exp
+     - Contenuto
+   * - Knight Warden
+     - 0
+     -
+   * - Armiger Warglaive
+     - 0
+     -
+   * - Armiger Warglaive
+     - 0
+     -
+   * - Armiger Helverin
+     - 0
+     -
+   * - Ministrorum Priest 
+     - 0
+     -

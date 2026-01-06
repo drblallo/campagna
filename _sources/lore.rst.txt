@@ -11,7 +11,7 @@ La campagna è ambientata nella `4a guerra tirannica`_, durante l'avanzata di fl
 
 L'improvvisa avanzata aliena ha richiesto alle armate imperiali di focalizzare le difese su pochi mondi altamente difendibili, come **Sanctum**, il pianeta capitolare dei **Templari Bianchi**. Le `Solblade`_, piccole flotte di intervento rapido, conducono operazioni speciali, come l'estrazione di tutte le risorse possibili da pianeti che l'Imperium non può difendere.
 
-La campagna copre le attività di una di tali **Solblade**, comandata dai **Lupi Siderali**, e supportata dagli **Adeptus Custodes**. Il loro obiettivo è raggiungere **Talmael**, un pianeta minore collocato sul percorso di **Leviathan**, estrarre la casata $NOME_CASATA di **Cavalieri Imperiali**, l'ordine $NOME_ORDINE dell' **Adepta Sororitas**, e i resti di **Lord Lupo Yannulf**.
+La campagna copre le attività di una di tali **Solblade**, comandata dai **Lupi Siderali**, e supportata dagli **Adeptus Custodes**. Il loro obiettivo è raggiungere **Talmael**, un pianeta minore collocato sul percorso di **Leviathan**, estrarre la casata **Hawkshroud** di **Cavalieri Imperiali**, un santuari dell'ordine di **Nostra Signora Martire** dell\' **Adepta Sororitas**, e i resti di **Lord Lupo Yannulf**.
 
 Mentre la presenza di **Culti Genoraptor** e elementi di infiltrazione **tiranide** è attesa, **Solblade Blackmane** non ha idea che altre potenze abbiano piani diversi per il futuro di **Talmael**.
 

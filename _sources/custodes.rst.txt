@@ -1,7 +1,42 @@
-Adeptus Custodes
+Egida Extremis
 ~~~~~~~~~~~~~~~~
 
-$NOME_GRUPPO_CUSTODES è un piccolo esercito di Adeptus Custodes assegnato a **Solblade Blackmane** da **Trajan Valoris**. Data la semplicità della missione, un mero riposizionamento di forze imperiali, i più sospettosi tra **Lupi Siderali** ritengono che i pretoriani abbiano l'obbiettivo di spiare sulle loro attività, e che l'alto comando imperiale abbia sfiducia nei confronti dei **Fenrisiani**.
 
-Gli space marine sono in errore, gli uomini di $CAPITANO_CUSTODES non hanno alcun dubbio riguardo la leatà dei figli di Russ. Il loro copito è invece duplice, il primo è assicurarsi che i cavaliere imperiali della casata $NOME_CASATA_KNIGHTS vengano estratti dal pianeta, anche a costo di eliminare eventuali piloti che non desiderano abbandonare il loro mondo. Il secondo obbiettivo è impedire che i resti di **Yannulf** vengano ispezionati, e venga rivelato il segreto che esso cela.
+**Egida Extremis** è un piccolo esercito di Adeptus Custodes assegnato a **Solblade Blackmane** da **Trajan Valoris**. Data la semplicità della missione, un mero riposizionamento di forze imperiali, i più sospettosi tra **Lupi Siderali** ritengono che i pretoriani abbiano l'obbiettivo di spiare sulle loro attività, e che l'alto comando imperiale abbia sfiducia nei confronti dei **Fenrisiani**.
 
+Gli space marine sono in errore, gli uomini dello **Shield-captain Calaxor** non hanno alcun dubbio riguardo la leatà dei figli di Russ. Il loro copito è invece duplice, il primo è assicurarsi che il giovane pilota **Thymotheus Hawkshroud** della casata **Hawkshroud** venga estratto dal pianeta, anche a costo di eliminare chiunque si opponga. Il secondo obbiettivo è impedire che i resti di **Yannulf** vengano ispezionati, e venga rivelato il segreto che esso cela.
+
+Ordine di armata
+================
+* Limite punti: 1000
+* Punti Requisizione: 3(2 spesi)
+
+
+.. list-table:: 
+   :widths: 5 1 10
+   :header-rows: 1
+
+   * - Nome
+     - Exp
+     - Contenuto
+   * - Calaxor il Falangita
+     - 0
+     - * 1x Blade Champion 
+   * - Sevevior, Esecutore multimo 
+     - 0
+     - * 1x Shield-captain on Dawneangle jetbike 
+   * - 5 Custodian Wardens
+     - 0
+     - 
+   * - 4 Custodian Guard 
+     - 0
+     - 
+   * - 5 Prosecutors 
+     - 0
+     -
+   * - 4 Witchseekers
+     - 0
+     -
+   * - 3 Vertus Praetors 
+     - 0
+     -
