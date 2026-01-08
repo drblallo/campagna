@@ -1,5 +1,5 @@
 Esempio di missione
-==================
+===================
 
 Il seguente è un esempio di missione ipotetica tra un giocatore di
 ``Space Marine`` e un giocatore di ``Death Guard``, giocata immediatamente

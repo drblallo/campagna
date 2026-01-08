@@ -9,7 +9,7 @@ Gli space marine sono in errore, gli uomini dello **Shield-captain Calaxor** non
 Ordine di armata
 ================
 * Limite punti: 1000
-* Punti Requisizione: 3(2 spesi)
+* Punti Requisizione: 2(3 spesi)
 
 
 .. list-table:: 
@@ -19,24 +19,27 @@ Ordine di armata
    * - Nome
      - Exp
      - Contenuto
-   * - Calaxor il Falangita
+   * - Calaxor, il Falangita
      - 0
-     - * 1x Blade Champion 
-   * - Sevevior, Esecutore multimo 
+     - * 1x Shield-captain on Dawneangle jetbike, Renowned Heros(Admonimortis), interceptor lance, salvo launcher, general
+   * - Severiur, Esecutore ultimo 
      - 0
-     - * 1x Shield-captain on Dawneangle jetbike 
-   * - 5 Custodian Wardens
+     - * 1x Blade Champion, RenownedHeros(Radiant Hero), vaultsword
+   * - Pezhetaíroi neri 
      - 0
-     - 
-   * - 4 Custodian Guard 
+     - * 4x Custodian Guard con Guardian Spear
+   * - Hypaspistai bianchi
      - 0
-     - 
-   * - 5 Prosecutors 
+     - * 5x Custodian Warden con Guardian Spear
+       * 1x Vexilla 
+   * - Cercatrici notturne
      - 0
-     -
-   * - 4 Witchseekers
+     - * 1x Prosecutor Sister Superior con boltgun e Close Combact Weapon
+       * 3x Prosecutor con boltgun e Close Combact Weapon 
+   * - Sorelle del focolare
      - 0
-     -
-   * - 3 Vertus Praetors 
+     - * 1x Witchseeker Sister Superior con close Combact weapon e Witchseeker flamer
+       * 4x Witchseeker con close Combact weapon e Witchseeker flamer.
+   * - Hetairoi aurei
      - 0
-     -
+     - * 3x Vertus Praetor con interceptor lance e Salvo Launcher
