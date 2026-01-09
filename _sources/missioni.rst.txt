@@ -1,10 +1,10 @@
-Scenari 9/1/2026
+Scenari 14/1/2026
 =================
 
 Adeptus Custodes VS Imperial Knights
 ------------------------------------
 
-**Descrizione Imperial Knights (Difensori)**
+**Descrizione Imperial Knights (Difensore)**
 
 Da 53 giorni piaghe infestano **Talmael**, forse di origine tiranide, forse di origine sovrannaturale. La capitale planetaria e le fortezze di casa **Hawkshroud** resistono, ma le coste dei laghi si sono tramutate un scenari apocalittici, in cui cadaveri viventi infetti con la malattia camminano nel tentativo di aggredire i sani.
 
@@ -24,6 +24,9 @@ Emersa dal warp, **Solblade Blackmane** si è trovatata in una situazione inatte
 
 **Creazione del campo di battaglia**
 Il campo di battaglia deve essere costruito come un normale campo di battaglia tipico di missioni a 1000 punti, eccetto che al centro del tavolo deve essere presente un edicifio quadrato non transitabile che oscura la vista tra i due obbiettivi nella terra di nessuno, e i due obbiettivi nella zona di schieramento.
+
+**Primo giocatore**
+L'attaccante ha il primo turno.
 
 **Obbiettivo primari**
 Dal secondo turno in poi, i giocatori ottengono 5PV primari per ogni obbiettivo non nella loro di schieramento che controllano, eccetto l'ultimo turno di gioco, in cui i punti sono assegnati alla fine del turno secondo le stesse condizioni.
@@ -55,3 +58,47 @@ All'inizio di qualsiasi fase, il giocatore di **Adeptus Custodes** può abbandon
 Se l'attaccante vince, scopre la locazione di **Thymotheus Hawkshroud**, modificando quali partite giocherà in futuro.  
 Se il difensore vince, può decidere se umiliare o no i pretoriani dell'imperatore, aumentando o diminuendo le ostilità con gli **adeptus custodes** in futuro.
 
+
+Space Wolfes VS Death Guard  
+---------------------------
+
+**Descrizione Deathguard (Difensore)**
+
+I morbi di Nurgle si diffondono felicemente sul pianeta e l'investigazione ha avuto successo, da qualche parte sulla superficie si nasconde la prigione celeste. Tuttavia, una flotta del dio carcassa è entrata nel sistema, ben meglio armata dei nostri astartes. Prima di poterli eliminare, bisognerà attirare l'attenzione del nostro patrono. Il rito è già in moto, ma le forze imperiali tenteranno senza dubbio di fermarlo.
+
+**Descrizione Spacewolf (Attaccante)**
+
+Emersa dal warp, **Solblade Blackmane** si è trovatata in una situazione inattesa. Attorno a **Talmael** fluttua un vascello dei poteri perniciosi, di capacità comparabili alla flotta imperiale stessa. Messaggi astropatici dal pianeta suggeriscono che una piaga di **Nurgle** devasta la superficie. 
+
+**Lord Lupo Blackman** e **Watch-captain Calaxor** concordano, si divideranno. I lupi siderano attaccheranno di sorpresa le forze del chaos, i custodes cercheranno di stabilire un contatto con i cavalieri imperiali. 
+
+.. figure:: _static/imgs/m12.png
+   :width: 400px
+   :align: center
+
+**Creazione del campo di battaglia**
+Gli edifici nella terra nessuno devono essere organizzati come se fossero i pezzi di un singolo grande edificio distrutto. Il resto del tavolo è organizzato secondo le normali regole di una partita a 1000 punti.
+
+**Schieramento**
+Il difensore schiera interamente il suo esercito per primo, poi l'attaccante schiera interamente il suo esercito.
+
+**Obbiettivi Primari**: 
+
+Alla fine della fase comando dal secondo turno in poi, ogni giocatore ottiene 5 punti vittoria primari per ogni obbiettivo che controlla. Nell'ultimo turno di gioco i punti sono assegnati alla fine del turno invece che alla fine della fase comando.
+
+**Obbiettivi Secondari**:
+**Raccogliere informazioni**:  Ogni volta che una unità è distrutta, non rimuovere l'ultimo modello distrutto, e invece piazzalo sul lato per indicare il punto in cui è stato eliminato. Tale modello non è un modello, e invece è un segnalino. Se un modello nemico si trova in qualsiasi momento entro 3\" da tale segnalino, rimuovi tale segnalino e il giocatore nemico ottiene 5 punti vittoria secondari.
+
+
+**Regole Speciali**
+
+**Fecundus emerge**: Il difensore deve includere **Pater Fecundus l'Inesauribile**, e tale unità deve essere schierata in riserva strategica, in attacco in profondità. Tale unità non può essere schierata dalle riserve nella tua zona di schieramento del difensore. Quando tale modello è schierato sul tavolo, posiziona un nuovo segnalino obbiettivo in qualsiasi punto interamente coperto dalla basetta di tale modello. 
+Se tale modello è distrutto, prima di rimuoverlo dal tavolo, piazza un segnalino obbiettivo in qualsiasi punto sotto la basetta, poi rimuovilo normalmente.
+Tali segnalini obbiettivi sono obbiettivi validi per tutti gli effetti. 
+
+**Primo sangue**: La prima unità di lupi siderali che distrugge un unità nemica non poxwalker ottiene 4 punti esperienza. 
+
+**Purga i poteri perniciosi**: Dopo che l'attaccante ha ottenuto punti vittoria primari, l'attaccante può decidere di distruggere l'obbiettivo da cui li ha ottenuti. In tal caso, rimuovi il segnalino obbiettivo dal gioco. 
+
+**Fine partita**: 
+Se l'attaccante vince la partita, l'influenza di nurgle sul pianeta diminuisce, assieme al numero di regole di missione legate a nurgle in partite future. Se il difensore vince, sciami di mosche di nurgle seguiranno i lupi siderali per il prossimo futuro, rivelando le informazioni scoperte dai lupi siderali alla deathguard.
