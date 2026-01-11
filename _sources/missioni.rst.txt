@@ -22,8 +22,10 @@ Emersa dal warp, **Solblade Blackmane** si è trovatata in una situazione inatte
    :width: 400px
    :align: center
 
+   dimensione tavolo: 44x30
+
 **Creazione del campo di battaglia**
-Il campo di battaglia deve essere costruito come un normale campo di battaglia tipico di missioni a 1000 punti, eccetto che al centro del tavolo deve essere presente un edicifio quadrato non transitabile che oscura la vista tra i due obbiettivi nella terra di nessuno, e i due obbiettivi nella zona di schieramento.
+Il campo di battaglia deve essere costruito come un normale campo di battaglia tipico di missioni a 1000 punti, eccetto che al centro del tavolo deve essere presente un edicifio quadrato non transitabile che oscura la vista tra i due obbiettivi nella terra di nessuno, e i due obbiettivi nella zona di schieramento. Almeno 8 elementi scenici devono essere parzialmente nella terra di nessuno.
 
 **Primo giocatore**
 L'attaccante ha il primo turno.
@@ -32,31 +34,26 @@ L'attaccante ha il primo turno.
 Dal secondo turno in poi, i giocatori ottengono 5PV primari per ogni obbiettivo non nella loro di schieramento che controllano, eccetto l'ultimo turno di gioco, in cui i punti sono assegnati alla fine del turno secondo le stesse condizioni.
 
 **Obbiettivi secondari**
-Gli obbiettivi nella terra di nessuno rappresentano infestazioni di poxwalker che i giocatori devono cercare di distruggere. 
-Prima di schierare gli eserciti, i giocatori si alternano a collocare 2 unità di 5 Poxwalkers, per un totale di 20 poxwalers, 10 attorno a ogni obbiettivo, iniziando dal difensore. **Restrizioni:** Le unità devono essere collocate interamente entro il range di controllo dell'obbiettivo selezionato. Tali Poxwalkers possono essere collocati in mischia con modelli non poxwalers.
+Tutti gli elementi scenici nella terra di nessuno tavolo sono infestati da poxwalker che i giocatori possono distruggere. 
 
-All'inizio di ogni turno, se 15 o meno poxwalker sono presenti sul tavolo, il giocatore non di turno colloca sul tavolo unità di 5 poxwalker fino a che 16+ poxwalkerks sono presenti sul tavolo. Tali unità devono essere collocate secondo le stesse restrizioni descritte nel paragrafo precedente. 
+All'inizio della fase di tiro, una unità non ingaggiata in corpo a corpo, parzialmente o interamente all'interno di un elemento scenico interamente o parzialmente nella terra di nessuno, può **purgare i poxwalker**. Se lo fa, tale unità non può sparare o caricare, e il possessore ottiene 5 punti vittoria secondari. Un elemento scenico può essere purgato una sola volta. 
+Elementi scenici parzialmente o interamente nella terra di nessuno non purgati dimuiscono la caratteristica di movimento di qualsiasi modello che inizia o termina un movimento al suo interno di 2 pollici.
 
-Le unità di poxwalers muovono all'inizio della fase di movimento di ogni turno di ogni giocatore, terminando il movimento di ogni poxwalker il più vicino possibile a il modello non poxwalker più vicino, senza avanzare o mai fare fallback.
 
-All'inizio della fase di assalto di ogni giocatore, le unità di poxwalker tentano di caricare il modello non Poxwalkers più vicino.
-
-Per tutti gli altri fini i poxwalker sono controllati dal giocatore non di turno.
-
-Ogni volta che un unità di poxwalker è distrutta, il giocatore che la ha distrutta ottiene 5 punti vittoria secondari.
 
 **Regole speciali**
 
 **Trattative tra l'aquila e il falco**: `I pretoriani tentano di convincere casata Hawkshroud ad abbandonare il pianeta. I cavalieri, invece, desiderano difendere le loro terre ancenstrali fino alla morte.` I giocatori non possono bersagliare unità o modelli nemici non poxwalker con effetti o attacchi. 
 
 **Fine delle trattative**:
-All'inizio di qualsiasi fase, il giocatore di **Adeptus Custodes** può abbandonare le trattative. Dal quel momento, la regola **Trattative tra l'aquila e il falco** non è più in effetto.
+All'inizio di qualsiasi fase, un giocatore può abbandonare le trattative. Dal quel momento, la regola **Trattative tra l'aquila e il falco** non è più in effetto. Se il giocatore di cavalieri imperiali è il giocatore a terminare le trattative, è considerato traditore per il resto della campagna.
+
 
 **Nome d'infamia**: Un unità del difensore che distrugge **Caloxor, il falangita** ottiene 4 punti esperienza.
 
 **Fine partita**: 
 Se l'attaccante vince, scopre la locazione di **Thymotheus Hawkshroud**, modificando quali partite giocherà in futuro.  
-Se il difensore vince, può decidere se umiliare o no i pretoriani dell'imperatore, aumentando o diminuendo le ostilità con gli **adeptus custodes** in futuro.
+Se il difensore vince, e non è stato lui a terminare le trattative, può decidere se umiliare o no i pretoriani dell'imperatore, aumentando o diminuendo le ostilità con gli **adeptus custodes** in futuro.
 
 
 Space Wolfes VS Death Guard  
@@ -75,6 +72,8 @@ Emersa dal warp, **Solblade Blackmane** si è trovatata in una situazione inatte
 .. figure:: _static/imgs/m12.png
    :width: 400px
    :align: center
+
+   dimensione tavolo: 44x30
 
 **Creazione del campo di battaglia**
 Gli edifici nella terra nessuno devono essere organizzati come se fossero i pezzi di un singolo grande edificio distrutto. Il resto del tavolo è organizzato secondo le normali regole di una partita a 1000 punti.
