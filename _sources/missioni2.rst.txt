@@ -47,3 +47,71 @@ L’unità dell’attaccante che distrugge Phagex ottiene 4 punti esperienza. Og
 **Nugoli di mosche sciami nel loro patrono**
 Ogni volta che un’unità nemica è bersagliata dalla regola Mosche di Nurgle, Pater Fecundus recupera una ferita precedentemente subita.
 
+**Fine partita**
+Se l\'attaccante vince la partita, le mosche di nurgle infestano per il prossimo futuro la armata di custodes, e l'informazione che i Custodes sono in guerra con i cavalieri imperiali viene rivelata. 
+Se il difensore vince la partita, scopre che le mosche di nurgle sono state l'origine della fuga di informazioni, e cessano di dubitare delle altre forze imperiali. Inoltre raggiungono la posizione di **Thymotheus**.
+
+Space Wolves VS Imperial Knights
+--------------------------------
+
+**Descrizione Imperial Knights (Difensore)**
+
+L'attacco a tradimento degli Adeptus Custodes ha spinto i cavalieri sulla difensiva. I pretoriani si dirigeranno verso la posizione di **Thymotheus**, che deve essere rinforzata.
+
+**Sir Hawkwood**, pur avendo ottenuto l'appellativo di **Abbattiaquile**, si trova in una posizione impossibile. Il codice cavalleresco richiederebbe di combattere contro tutti i nemici di Talmael, ma la difficoltà di farlo è titanica. Forse possono essere trovati accordi con gli eserciti che minacciano il pianeta. Intanto, ululati di lupi si odono dalle rovine delle città.
+
+
+**Descrizione Space Wolves (Attaccante)**
+
+**Blackmane**, infuriato per il fallimento nel rompere le linee dei traditori, si prepara a riprendere l'assalto, ma un messaggio del **watch-captain Caloxor** lo spinge a desistere. I Custodes affermano che casa **Hawkwood** ha aperto il fuoco sulle forze imperiali e che deve essere eliminata. La distruzione delle forze caotiche sarà rimandata a dopo il compimento della missione principale della **Solblade**.
+
+I comandanti dei Lupi Siderali non sono sicuri di potersi fidare delle affermazioni degli **Adeptus Custodes**, ma la dottrina dei Lupi Siderali li spinge a premere il grilletto prima e porre domande dopo.
+
+
+.. figure:: _static/imgs/m22.png
+   :width: 400px
+   :align: center
+
+   dimensione tavolo: 44x60
+
+
+**Creazione del campo di battaglia**
+
+I giocatori si alternano, partendo dal difensore, a piazzare gli elementi scenici sul tavolo. Ogni elemento scenico deve essere ad almeno 6 pollici da ogni altro elemento scenico, eccetto uno. Ogni elemento scenico deve essere ad almeno 6 pollici da ogni bordo del tavolo.
+
+Gli elementi scenici da piazzare sono i normali elementi scenici di una partita WTC.
+
+Il bordo del tavolo dei giocatori è stabilito dopo aver piazzato gli scenici.
+
+
+**Schieramento**
+
+**Attacco selvaggio**: colloca un separatore tra le due metà del tavolo dei giocatori in modo da limitare il più possibile la linea di vista tra le due parti. Entrambi i giocatori schierano i loro eserciti contemporaneamente, senza sapere dove l'esercito nemico è schierato.
+
+
+**Punti vittoria primari**
+
+I giocatori ottengono 5 punti vittoria per ogni obiettivo che controllano nella terra di nessuno, secondo le normali regole per l’assegnazione dei punti vittoria primari.
+
+
+**Punti vittoria secondari**
+
+**Non mordere la gola**: ogni volta che un\'unità attacca un\'altra unità, il controllore dell\'unità attaccante può decidere di cercare di causare il danno minimo necessario per incapacitarla.  
+Se lo fai, gli attacchi ottengono un -1 al tiro per ferire. Se l\'unità bersaglio viene distrutta da quell\'attacco, ottieni 10 punti vittoria secondari.
+
+
+**Regole speciali**
+
+* **Abbattilupi**: se **Sir Hawkwood** distrugge un'unità Personaggio dell'avversario, ottiene l'epiteto di **Abbattilupi**. La prima volta durante una partita in cui **Sir Hawkwood** dovrebbe effettuare un test di Battleshock, migliora di 1 la caratteristica di Disciplina per ogni epiteto posseduto da **Sir Hawkwood**.
+* **Scommesse tra i lupi**: all'inizio di ogni turno in cui nessun modello del difensore è marchiato come **Bersaglio**, il difensore seleziona un proprio modello e lo marchia come **Bersaglio**.  
+  Ogni volta che un modello marchiato come **Bersaglio** viene distrutto, l'attaccante ottiene un punto onore.
+
+
+**Fine partita**
+
+Se il difensore distrugge più di due unità senza usare la regola **Non mordere la gola** durante la risoluzione degli attacchi, è considerato traditore per il resto della campagna.
+
+Se il difensore vince la partita, i Cavalieri Imperiali possono muoversi verso la capitale per difendere **Thymotheus Hawkwood**.
+
+Se l'attaccante vince la partita, può decidere se considerare i Cavalieri come alleati o traditori per il prossimo futuro. Se i Lupi Siderali vincono, inizieranno a perseguire l'obiettivo di recuperare la salma di **Yannulf**.
+
