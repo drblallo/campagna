@@ -15,4 +15,5 @@
    ./necron.rst
    ./esempio_missione.rst
    ./missioni.rst
+   ./missioni2.rst
 

@@ -1,0 +1,49 @@
+Scenari 21/01/2026
+=================
+
+Adeptus Custodes VS Death Guard
+-------------------------------
+
+**Descrizione Adeptus Custodes (Difensore)**
+
+Sebbene il tentativo di sottomettere la Warhawk Lance sia fallito, la posizione di Thymotheus Hawkshroud è stata identificata con successo. L’obiettivo di estrarre il resto della casata sarà delegato ai Lupi Siderali, mentre i Pretoriani dell’Imperatore si dirigeranno verso la capitale planetaria. Thymotheus sta combattendo all’esterno delle mura cittadine contro le orde di poxwalker e le infestazioni dei culti genoraptor.
+
+Inaspettatamente, le forze degli Adeptus Custodes in movimento vengono attaccate da Astartes traditori. Qualcuno deve aver fornito la posizione delle armate imperiali ai traditori. I Lupi Siderali, o i Cavalieri di Talmael?
+
+**Descrizione Death Guard (Attaccante)**
+
+Pater Fecundus ride e gioisce mentre raccoglie le proprie interiora. Il piano ha funzionato: le sue mosche si sono nascoste tra gli ingranaggi del Dreadnought dei Lupi Siderali.
+
+Finché i Techmarine del nemico non individueranno e rimuoveranno l’infezione, le mosche continueranno a rivelare segreti al Grande Immondo, il primo dei quali è la posizione delle altre armate imperiali.
+
+Phagex e Fecundus concordano: finché il vantaggio di intelligence persiste, deve essere sfruttato per eliminare le forze imperiali.
+
+.. figure:: _static/imgs/m21.png
+   :width: 400px
+   :align: center
+
+   dimensione tavolo: 44x60
+
+**Creazione del campo di battaglia**
+Il campo di battaglia deve contenere il doppio degli elementi scenici sul lato sinistro rispetto al lato destro.
+
+**Schieramento**
+Il difensore schiera l’intero esercito per primo.
+
+**Inizio partita**
+L’attaccante ha il primo turno.
+
+**Punti vittoria primari**
+I giocatori ottengono 5 punti vittoria per ogni obiettivo che controllano nella terra di nessuno, secondo le normali regole per l’assegnazione dei punti vittoria primari.
+
+
+**Punti vittoria secondari**
+ * Mosche di Nurgle: durante la fase di tiro dell’attaccante, le unità dell’attaccante che non siano poxwalker o chaos spawn possono compiere un’azione se si trovano entro 6 pollici da un’unità nemica. Se lo fanno, il giocatore ottiene 4 punti vittoria secondari. Ogni unità nemica può essere scelta come bersaglio una sola volta per partita.
+ *  Verso il nostro vero obiettivo: le unità del difensore che terminano il loro movimento interamente entro 6 pollici dal bordo del tavolo dell’attaccante possono abbandonare la battaglia. Se lo fanno, rimuovile dal gioco e ottieni 8 punti vittoria secondari per ogni unità rimossa.
+
+**Punisci i traditori della Lunga Guerra**
+L’unità dell’attaccante che distrugge Phagex ottiene 4 punti esperienza. Ogni volta che un’unità del difensore distrugge un’unità Astartes dell’attaccante, per il resto della partita l’unità del difensore ottiene +1 VP a tutte le sue armi.
+
+**Nugoli di mosche sciami nel loro patrono**
+Ogni volta che un’unità nemica è bersagliata dalla regola Mosche di Nurgle, Pater Fecundus recupera una ferita precedentemente subita.
+
