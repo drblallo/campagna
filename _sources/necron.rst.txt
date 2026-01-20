@@ -28,8 +28,8 @@ Ordine di armata
 ================
 
 * Outbreak: Hive world: Fecundity 3, Population 5, Vulnerability 2, Sustainability 10
-* Limite punti: 1000
-* Punti Requisizione: 5
+* Limite punti: 1200
+* Punti Requisizione: 4
 
 .. list-table:: 
    :widths: 5 1 10
@@ -39,30 +39,78 @@ Ordine di armata
      - Exp
      - Contenuto
    * - Phagex Il Reietto 
-     - 0
+     - 6
      - * 1x Lord of Contagion
    * - Pater Fecundus 
      - 0
      - * 1x Grande Immondo con Bilesword e Plague flail
    * - Chirax Il Contabile 
-     - 0
+     - 3
      - * 1x Tallyman
    * - Deathshroud Terminators
-     - 0
+     - 1
      - * 1x Deathshroud Terminator Champion: Icon of Despair, Plaguespurt gauntlet
        * 2x Deathshroud Terminator
-
    * - Poxwalkers
      - 0
      - * 10x Poxwalker
    * - Bestia di Nurgle
      - 0
      -
-
    * - Chaos Spawn
-     - 0
+     - 1
      - * 2x Chaos spawn
-
    * - Myphitic Blighthauler
-     - 0
+     - 1
      - * 2x Myphitic Blight-hauler
+   * - Foetid bloat drone 
+     - 0
+     - * 1x Foetid bloat drone
+   * - Nurglins 
+     - 0
+     - * 6x Nurglins 
+
+.. code-block:: rst
+
+  * Outbreak: Hive world: Fecundity 3, Population 5, Vulnerability 2, Sustainability 10
+  * Limite punti: 1200
+  * Punti Requisizione: 4
+  
+  .. list-table:: 
+     :widths: 5 1 10
+     :header-rows: 1
+  
+     * - Nome
+       - Exp
+       - Contenuto
+     * - Phagex Il Reietto 
+       - 6
+       - * 1x Lord of Contagion
+     * - Pater Fecundus 
+       - 0
+       - * 1x Grande Immondo con Bilesword e Plague flail
+     * - Chirax Il Contabile 
+       - 3
+       - * 1x Tallyman
+     * - Deathshroud Terminators
+       - 1
+       - * 1x Deathshroud Terminator Champion: Icon of Despair, Plaguespurt gauntlet
+         * 2x Deathshroud Terminator
+     * - Poxwalkers
+       - 0
+       - * 10x Poxwalker
+     * - Bestia di Nurgle
+       - 0
+       -
+     * - Chaos Spawn
+       - 1
+       - * 2x Chaos spawn
+     * - Myphitic Blighthauler
+       - 1
+       - * 2x Myphitic Blight-hauler
+     * - Foetid bloat drone 
+       - 0
+       - * 1x Foetid bloat drone
+     * - Nurglins 
+       - 0
+       - * 6x Nurglins 

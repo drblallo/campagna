@@ -8,8 +8,8 @@ Gli space marine sono in errore, gli uomini dello **Shield-captain Calaxor** non
 
 Ordine di armata
 ================
-* Limite punti: 1000
-* Punti Requisizione: 2(3 spesi)
+* Limite punti: 1200
+* Punti Requisizione: 2(4 spesi)
 
 
 .. list-table:: 
@@ -20,26 +20,81 @@ Ordine di armata
      - Exp
      - Contenuto
    * - Calaxor, il Falangita
-     - 0
+     - 6
      - * 1x Shield-captain on Dawneangle jetbike, Renowned Heros(Admonimortis), interceptor lance, salvo launcher, general
    * - Severiur, Esecutore ultimo 
-     - 0
+     - 1
      - * 1x Blade Champion, RenownedHeros(Radiant Hero), vaultsword
    * - Pezhetaíroi neri 
-     - 0
+     - 1
      - * 4x Custodian Guard con Guardian Spear
    * - Hypaspistai bianchi
-     - 0
+     - 1
      - * 5x Custodian Warden con Guardian Spear
        * 1x Vexilla 
    * - Cercatrici notturne
-     - 0
+     - 1
      - * 1x Prosecutor Sister Superior con boltgun e Close Combact Weapon
        * 3x Prosecutor con boltgun e Close Combact Weapon 
    * - Sorelle del focolare
      - 0
      - * 1x Witchseeker Sister Superior con close Combact weapon e Witchseeker flamer
        * 4x Witchseeker con close Combact weapon e Witchseeker flamer.
+   * - ??? 
+     - 0
+     - * 1x Witchseeker Sister Superior con close Combact weapon e Witchseeker flamer
+       * 4x Witchseeker con close Combact weapon e Witchseeker flamer.
    * - Hetairoi aurei
      - 0
      - * 3x Vertus Praetor con interceptor lance e Salvo Launcher
+   * - Katáphraktos 
+     - 0
+     - 2x Allarus Custodians con lanciagranate e Guardian Spear
+
+
+.. code-block:: rst
+
+  Ordine di armata
+  ================
+  * Limite punti: 1200
+  * Punti Requisizione: 2(4 spesi)
+  
+  
+  .. list-table:: 
+     :widths: 5 1 10
+     :header-rows: 1
+  
+     * - Nome
+       - Exp
+       - Contenuto
+     * - Calaxor, il Falangita
+       - 6
+       - * 1x Shield-captain on Dawneangle jetbike, Renowned Heros(Admonimortis), interceptor lance, salvo launcher, general
+     * - Severiur, Esecutore ultimo 
+       - 1
+       - * 1x Blade Champion, RenownedHeros(Radiant Hero), vaultsword
+     * - Pezhetaíroi neri 
+       - 1
+       - * 4x Custodian Guard con Guardian Spear
+     * - Hypaspistai bianchi
+       - 1
+       - * 5x Custodian Warden con Guardian Spear
+         * 1x Vexilla 
+     * - Cercatrici notturne
+       - 1
+       - * 1x Prosecutor Sister Superior con boltgun e Close Combact Weapon
+         * 3x Prosecutor con boltgun e Close Combact Weapon 
+     * - Sorelle del focolare
+       - 0
+       - * 1x Witchseeker Sister Superior con close Combact weapon e Witchseeker flamer
+         * 4x Witchseeker con close Combact weapon e Witchseeker flamer.
+     * - ??? 
+       - 0
+       - * 1x Witchseeker Sister Superior con close Combact weapon e Witchseeker flamer
+         * 4x Witchseeker con close Combact weapon e Witchseeker flamer.
+     * - Hetairoi aurei
+       - 0
+       - * 3x Vertus Praetor con interceptor lance e Salvo Launcher
+     * - Katáphraktos 
+       - 0
+       - 2x Allarus Custodians con lanciagranate e Guardian Spear

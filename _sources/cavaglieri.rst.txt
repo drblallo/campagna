@@ -38,3 +38,34 @@ Ordine di armata
    * - Ministrorum Priest 
      - 0
      -
+
+.. code-block:: rst
+
+  Ordine di armata
+  ================
+  
+  * Limite punti: 1000
+  * Punti Requisizione: 4
+
+  .. list-table:: 
+     :widths: 5 1 10
+     :header-rows: 1
+  
+     * - Nome
+       - Exp
+       - Contenuto
+     * - Knight Warden
+       - 0
+       - * Renowned Heros(Mentors's pride)
+     * - Armiger Warglaive
+       - 0
+       -
+     * - Armiger Warglaive
+       - 0
+       -
+     * - Armiger Helverin
+       - 0
+       -
+     * - Ministrorum Priest 
+       - 0
+       -

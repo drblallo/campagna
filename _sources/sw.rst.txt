@@ -12,7 +12,7 @@ Sacerdote del lupo che ha fatto voto personale di condurre a **Fenris** i resti 
 Ordine di armata
 ================
 
-* Punti Requisizione: 5
+* Punti Requisizione: 4
 * Oathsworn campaign: Glory seekers
 * Limite punti: 1000
 
@@ -52,6 +52,58 @@ Ordine di armata
      - * 1x Wolf Guard Terminator Pack Leader: Relic Great Axe
        * 3x Wolf Guard Terminator: Storm Bolter
        * 1x Wolf Guard Terminator w/Assault Cannon
+   * - Wulfen 
+     - 0
+     - * 5x Wulfen with with Death Totem 
    * - Arne One-ear
      - 0
      - * 1x Ballistus Dreadnought   
+
+.. code-block:: rst
+
+  * Punti Requisizione: 4
+  * Oathsworn campaign: Glory seekers
+  * Limite punti: 1000
+  
+  .. list-table:: 
+     :widths: 5 1 10
+     :header-rows: 1
+  
+     * - Nome
+       - Exp
+       - Contenuto
+     * - Ragnar Blackmane
+       - 0
+       -
+     * - Arjac Rockfist
+       - 0
+       -
+     * - Torsten Howlbreak
+       - 0
+       - * 1x Wolf Priest
+  
+     * - Blood claws: Young Claws 
+       - 0
+       - * 9x Blood Claw
+         * 1x Blood Claw Pack Leader: Power Weapon, Bolt pistol
+     * - Intercessor Squad
+       - 0
+       - * 1x Intercessor Sergeant: Bolt Rifle, Power Weapon
+         * 4x Intercessor
+     * - Wolf Guard Headtakers 
+       - 0
+       - 6x Wolf Guard Headtakers: Master-crafted Power Weapon and Storm Shield
+     * - Hunting Wolves 
+       - 0
+       - 
+     * - Ulfrings 
+       - 0
+       - * 1x Wolf Guard Terminator Pack Leader: Relic Great Axe
+         * 3x Wolf Guard Terminator: Storm Bolter
+         * 1x Wolf Guard Terminator w/Assault Cannon
+     * - Wulfen 
+       - 0
+       - * 5x Wulfen with with Death Totem 
+     * - Arne One-ear
+       - 0
+       - * 1x Ballistus Dreadnought   
