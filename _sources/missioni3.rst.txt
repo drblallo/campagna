@@ -1,4 +1,4 @@
-Scenari 14/1/2026
+Scenari 23/1/2026
 =================
 
 Deathguard VS Imperial Knights
@@ -58,3 +58,53 @@ Ogni volta che in offerta è rifiutata, il difensore ottiene un punto comando.
 Se l'attaccante vince, ottiene qualcosa di segreto dai resti dei difensore. 
 Se il difensore vince, e non ha accettato nessun patto, allora il difensore raggiunge **Thymoteus**  e ottiene gratuitamente un aumento di 200 della requisizione, e deve aggiungere **Thymoteus** all'ordine di crociata.
 
+
+Custods VS Space Wolfes 
+------------------------
+
+**Descrizione**
+**Blackmane** riflette sulla precedente battaglia. Sebbene i cavaglieri avrebbero potuto spazzarli via, hanno mostrato contegno. Perchè allora gli **Adeptus custodes** hanno asserito che la casata è traditrice? Questa non è la prima volta in cui i custodes hanno operato in maniera imprevedibile. 
+**Blackmane** usa un comando vocale per fare apparire nelle lenti del suo elmo le informazioni sulla battaglia di **Almnovgrad** 3 mesi prima, in cui assieme ai prettoriani dell'imperatore hanno assassinato le bestie tiranidi.
+
+
+**Regole speciali**
+
+**Creaione armata**
+I giocatori di custodes e space wolf sono alleati e si alternano a attivare le unità ogni fase. Ognuno dei due può schierare 1200 punti.
+
+L'avversario ha una lista composta da
+
+* 1x Abominant 
+* 1x Patriarch 
+* 1x Primus 
+* 1x Reductus Saboteur 
+* 10x Acolyte Hybrids with Hand Flamers 
+* 20x Neophyte Hybrids 
+* 5x Aberrants 
+* 2x Achilles Ridgerunners 
+* 10x Purestrain Genestealers 
+* 1x Deathleaper 
+* 1x Tervigon 
+* 1x The Swarmlord 
+* 10x Gargoyles 
+* 20x Termagants 
+* 1x Exocrine 
+* 11x Neurogaunts 
+
+**Schieramento** tutto l'esercito degli adeptus custodes deve iniziare la parita in riserva.
+
+**Inizio partita** i giocatori hanno il primo turno.
+
+**Punti vittoria** i giocatori ottengono 5 punti vittoria per ogni personaggio nemico che distruggono. Il giocatore che distrugge swarmlord ottiene 10 punti vittoria addizionali.
+I punti vittoria dei giocatori sono tracciati individualmente. Il giocatore con il più grande numero di punti vittoria vince la partita.
+
+**Regole speciali**:
+
+**Non finiscono mai!**: ogni unità di fanteria tiranide o culti genoraptor distrutta non personaggio è automaticamente rigenerata all'inizio di ogni turno, e aggiunta alle riserve.
+
+**Sic Semper Tyrannis**: Swarmlord tenterà attivamente di sopravvivere e cercherà di fare qualsiasi cosa per tenere i nemici lontani da se stesso.
+
+
+**Fine partita**
+Se il giocatore di space wolves vince la partita, decide che l'adeptus custodes li sta imbrogliando, e si muoverà verso il tempo del lupo per recuperare la salma di **Yannulf**.
+Se il giocatore di adeptus custodes vince la partita, quando il giocatore Sapce Wolves si dirigerà al tempio di **Yannulf**, una unità di custodes li accompagnerà.
