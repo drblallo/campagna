@@ -33,7 +33,7 @@ L'attaccante ha il primo turno.
 Dal secondo turno in poi, i giocatori ottengono 5PV primari per ogni obbiettivo non nella loro di schieramento che controllano, eccetto l'ultimo turno di gioco, in cui i punti sono assegnati alla fine del turno secondo le stesse condizioni.
 
 **Obbiettivi secondari**
-L'attaccante ottiene un punto vittoria secondario per ogni persa dal nemico alla fine della battaglia.
+L'attaccante ottiene un punto vittoria secondario per ogni ferita persa dal nemico alla fine della battaglia.
 
 **Alberi Di Nurgle**: 
 Gli **alberi** di nurgle sono modelli con un profilo difensivo di un grande immondo. Possono essere bersagliati da attacchi, ma non è possibile interagire con essi in nessun altra maniera. Il difensore ottiene 1 PV secondario per ogni ferita inferta a un albero.
