@@ -1,0 +1,60 @@
+Scenari 14/1/2026
+=================
+
+Deathguard VS Imperial Knights
+------------------------------
+
+**Descrizione Imperial Knights (Difensore)**
+
+La **casata Hawkwood** continua a resistere con successo contro l'ingiustificata aggressività imperiale, eppure si trova sulla difensiva. I cavalieri devono precipitarsi alla capitale planetaria di **Talmael**, per unirsi al manipolo di **Thymoteus** e mostrarsi uniti nel respingere gli agenti del trono.
+
+Mentre camminano nelle rovine dei sobborghi devastati delle città si rendono conto che il roccemento e le mura si stanno trasformando in foreste di alberi sadici e ridenti. L'influenza del warp comincia rompere la separazione tra la realtà e l'immaterium. Nella foresta, i cavalieri si trovano assaliti dalle bestie che si nascondono tra i tronchi.
+
+
+**Descrizione Deathguard (Attaccante)**
+
+Il consiglio di guerra dei **reietti di Fecundus** analizza le informazioni ottenute dalle mosche infiltrate nei nemici imperiali. Sorprendentemente, sembra che zizzania esista i ranghi dei loro avversari. Forse sarà possibile mostrare a casata **Hawkwood** la verità sui doni di **nurgle**, e fare capire loro che la sofferenza è una scelta, non una necessità. 
+
+
+
+.. figure:: _static/imgs/m21.png
+   :width: 400px
+   :align: center
+
+   dimensione tavolo: 44x60. Limite di punti: 1200
+
+**Creazione del campo di battaglia**
+Il campo di battaglia deve essere costruito come un normale campo di battaglia tipico di missioni a 2000 punti. Sugli obbiettivi esterni della terra di nessuno sono collocati gli **alberi di nurgle**, in modo che il centro dell'albero sia il più centrale possibile all'obbiettivo.
+
+**Primo giocatore**
+L'attaccante ha il primo turno.
+
+**Obbiettivo primari**
+Dal secondo turno in poi, i giocatori ottengono 5PV primari per ogni obbiettivo non nella loro di schieramento che controllano, eccetto l'ultimo turno di gioco, in cui i punti sono assegnati alla fine del turno secondo le stesse condizioni.
+
+**Obbiettivi secondari**
+L'attaccante ottiene un punto vittoria secondario per ogni persa dal nemico alla fine della battaglia.
+
+**Alberi Di Nurgle**: 
+Gli **alberi** di nurgle sono modelli con un profilo difensivo di un grande immondo. Possono essere bersagliati da attacchi, ma non è possibile interagire con essi in nessun altra maniera. Il difensore ottiene 1 PV secondario per ogni ferita inferta a un albero.
+Mentre entrambi gli alberi di nurgle sono presenti sul tavolo, un modello di nurgle che termina un movimento interamente all'interno del range di un obbiettivo vicino a un albero, può essere rimosso dal tavolo e posizionato entro il range dell'altro obbiettivo con un albero di nurgle.
+
+(I punti vittoria secondari massimi sono comunque 40)
+
+**Regole speciali**
+
+
+**Trattative tra la mosca e il falco**: `Le voci dei demoni di nurgle tentano di influenzare i cavalieri e spingerli unirsi ai loro obbiettivi.` Ogni volta che un modello dei difensori è rimosso dal gioco, l'attaccante può offire un patto al difensore. Il difensore può accettarlo o rifiutarlo. Se il patto è accettato, i cavalieri del chaos diventano traditori per il resto della campagna. La partita prosegue comunque.  Un patto può essere offerto una sola volta. Un solo patto può essere accettato. Solo 3 patti possono essere offerti durante una partita. I giocatori non possono comunicare tra loro riguardo quali patti preferirebbero venissero offerti.
+Ogni volta che in offerta è rifiutata, il difensore ottiene un punto comando.
+
+* **Offerta di potere**: Il giocatore di cavalieri imperiali ottiene una reliquia a scelta alla fine della partita da aggiungere all'ordine di armata. La reliquia è chaotica.
+* **Offerta di pace**: L'attaccante promette di abbandonare il mondo alla fine della guerra contro gli imperiali, e di fare desistere le infezioni di nurgle.
+* **Offerta di vassallaggio**: L'attaccante promette di aiutare i cavalieri imperiali a difendere il loro pianeta contro gli imperiali, e contro flotta alveare levhiatan, ma l'influenza di nurgle rimarrà permanente sul mondo.
+* **Offerta di ascensione**: I demoni promettono a **Sir Hawkwood** che lo aiuteranno ad ascendere a principe demone nel futuro.
+
+**Scacciamosche**: se **Sir Hawkwood** distrugge un'unità Personaggio dell'avversario, ottiene l'epiteto di **Scacciamosche**. La prima volta durante una partita in cui **Sir Hawkwood** dovrebbe effettuare un test di Battleshock, migliora di 1 la caratteristica di Disciplina per ogni epiteto posseduto da **Sir Hawkwood**.
+
+**Fine partita**: 
+Se l'attaccante vince, ottiene qualcosa di segreto dai resti dei difensore. 
+Se il difensore vince, e non ha accettato nessun patto, allora il difensore raggiunge **Thymoteus**  e ottiene gratuitamente un aumento di 200 della requisizione, e deve aggiungere **Thymoteus** all'ordine di crociata.
+

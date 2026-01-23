@@ -13,8 +13,9 @@ Allo scoppio della 4a guerra tirannica, i piloti della casata sono ritornati al 
 Ordine di armata
 ================
 
-* Limite punti: 1000
-* Punti Requisizione: 4
+
+* Limite punti: 1400 (usati 1370)
+* Punti Requisizione: 3
 
 .. list-table:: 
    :widths: 5 1 10
@@ -23,29 +24,36 @@ Ordine di armata
    * - Nome
      - Exp
      - Contenuto
-   * - Knight Warden
+   * - Sir Thymoteus Hawkwood
+     - 8
+     - * Knight Warden
+       * Battle Honour: Finely Balanced + Masterworked
+       * Renowned Heros(Mentors's pride)
+   * - Sir Shinji Hawkwood
      - 0
-     - * Renowned Heros(Mentors's pride)
-   * - Armiger Warglaive
-     - 0
-     -
-   * - Armiger Warglaive
-     - 0
-     -
-   * - Armiger Helverin
-     - 0
-     -
-   * - Ministrorum Priest 
-     - 0
-     -
+     - Knight Lancer
+   * - Sir Bedevere
+     - 7
+     - * Armiger Warglaive
+       * Battle Honour: Heirloom + brutal
+   * - Sir Robin
+     - 7
+     - * Battle Honour: Heirloom + brutal
+       * Armiger Warglaive
+   * - Sir Galahad
+     - 4
+     - * Armiger Warglaive
+   * - Sir Lancel
+     - 4
+     - * Armiger Helverin
+   * - Ministrorum Priest
+     - 2
+     - 
 
 .. code-block:: rst
 
-  Ordine di armata
-  ================
-  
-  * Limite punti: 1000
-  * Punti Requisizione: 4
+  * Limite punti: 1400 (usati 1370)
+  * Punti Requisizione: 3
 
   .. list-table:: 
      :widths: 5 1 10
@@ -54,18 +62,29 @@ Ordine di armata
      * - Nome
        - Exp
        - Contenuto
-     * - Knight Warden
+     * - Sir Thymoteus Hawkwood
+       - 8
+       - * Knight Warden
+         * Battle Honour: Finely Balanced + Masterworked
+         * Renowned Heros(Mentors's pride)
+     * - Sir Shinji Hawkwood
        - 0
-       - * Renowned Heros(Mentors's pride)
-     * - Armiger Warglaive
-       - 0
-       -
-     * - Armiger Warglaive
-       - 0
-       -
-     * - Armiger Helverin
-       - 0
-       -
-     * - Ministrorum Priest 
-       - 0
-       -
+       - Knight Lancer
+     * - Sir Bedevere
+       - 
+       - 7
+       - * Armiger Warglaive
+         * Battle Honour: Heirloom + brutal
+     * - Sir Robin
+       - 7
+       - * Battle Honour: Heirloom + brutal
+         * Armiger Warglaive
+     * - Sir Galahad
+       - 4
+       - * Armiger Warglaive
+     * - Sir Lancel
+       - 4
+       - * Armiger Helverin
+     * - Ministrorum Priest
+       - 2
+       - 

@@ -16,4 +16,5 @@
    ./esempio_missione.rst
    ./missioni.rst
    ./missioni2.rst
+   ./missioni3.rst
 
