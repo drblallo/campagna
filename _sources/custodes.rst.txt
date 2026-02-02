@@ -8,11 +8,10 @@ Gli space marine sono in errore, gli uomini dello **Shield-captain Calaxor** non
 
 Ordine di armata
 ================
-* Limite punti: 1200
+* Limite punti: 1600
 * Punti Requisizione: 2(4 spesi)
 
-
-.. list-table:: 
+.. list-table::
    :widths: 5 1 10
    :header-rows: 1
 
@@ -20,81 +19,90 @@ Ordine di armata
      - Exp
      - Contenuto
    * - Calaxor, il Falangita
+     - 8
+     - * 1x Shield-captain on Dawneangle jetbike, Renowned Heros(Admonimortis), interceptor lance, salvo launcher, general, Improve weapon, +1 F e D 
+   * - Severiur, Esecutore ultimo
      - 6
-     - * 1x Shield-captain on Dawneangle jetbike, Renowned Heros(Admonimortis), interceptor lance, salvo launcher, general
-   * - Severiur, Esecutore ultimo 
-     - 1
-     - * 1x Blade Champion, RenownedHeros(Radiant Hero), vaultsword
-   * - Pezhetaíroi neri 
-     - 1
-     - * 4x Custodian Guard con Guardian Spear
+     - * 1x Blade Champion, RenownedHeros(Radiant Hero), vaultsword, Relic emperor'light
+   * - Pezhetaíroi neri
+     - 10
+     - * 4x Custodian Guard con Guardian Spear, Companion's watch
    * - Hypaspistai bianchi
-     - 1
+     - 10
      - * 5x Custodian Warden con Guardian Spear
-       * 1x Vexilla 
+       * 1x Vexilla, Flawless Bladework
    * - Cercatrici notturne
-     - 1
+     - 2
      - * 1x Prosecutor Sister Superior con boltgun e Close Combact Weapon
-       * 3x Prosecutor con boltgun e Close Combact Weapon 
+       * 3x Prosecutor con boltgun e Close Combact Weapon
    * - Sorelle del focolare
-     - 0
+     - 2
      - * 1x Witchseeker Sister Superior con close Combact weapon e Witchseeker flamer
-       * 4x Witchseeker con close Combact weapon e Witchseeker flamer.
-   * - ??? 
-     - 0
+       * 4x Witchseeker con close Combact weapon e Witchseeker flamer, Lions, not wolves
+   * - Ignifere seleniche
+     - 1
      - * 1x Witchseeker Sister Superior con close Combact weapon e Witchseeker flamer
-       * 4x Witchseeker con close Combact weapon e Witchseeker flamer.
+       * 3x Witchseeker con close Combact weapon e Witchseeker flamer.
    * - Hetairoi aurei
-     - 0
-     - * 3x Vertus Praetor con interceptor lance e Salvo Launcher
-   * - Katáphraktos 
-     - 0
+     - 5
+     - * 3x Vertus Praetor con interceptor lance e Salvo Launcher, Lions, not wolves
+   * - Katáphraktos
+     - 1
      - 2x Allarus Custodians con lanciagranate e Guardian Spear
+   * - Alba dorata
+     - 5
+     - * 1x Caladius Grav-tank
+       * 1x Twin Arachnus heavy blaze cannon 
+       * 1x Twin Lastrum bolt cannon 
+       * 1x Armored Hull
 
 
 .. code-block:: rst
 
-  Ordine di armata
-  ================
-  * Limite punti: 1200
+  * Limite punti: 1600
   * Punti Requisizione: 2(4 spesi)
-  
-  
-  .. list-table:: 
-     :widths: 5 1 10
-     :header-rows: 1
-  
-     * - Nome
-       - Exp
-       - Contenuto
-     * - Calaxor, il Falangita
-       - 6
-       - * 1x Shield-captain on Dawneangle jetbike, Renowned Heros(Admonimortis), interceptor lance, salvo launcher, general
-     * - Severiur, Esecutore ultimo 
-       - 1
-       - * 1x Blade Champion, RenownedHeros(Radiant Hero), vaultsword
-     * - Pezhetaíroi neri 
-       - 1
-       - * 4x Custodian Guard con Guardian Spear
-     * - Hypaspistai bianchi
-       - 1
-       - * 5x Custodian Warden con Guardian Spear
-         * 1x Vexilla 
-     * - Cercatrici notturne
-       - 1
-       - * 1x Prosecutor Sister Superior con boltgun e Close Combact Weapon
-         * 3x Prosecutor con boltgun e Close Combact Weapon 
-     * - Sorelle del focolare
-       - 0
-       - * 1x Witchseeker Sister Superior con close Combact weapon e Witchseeker flamer
-         * 4x Witchseeker con close Combact weapon e Witchseeker flamer.
-     * - ??? 
-       - 0
-       - * 1x Witchseeker Sister Superior con close Combact weapon e Witchseeker flamer
-         * 4x Witchseeker con close Combact weapon e Witchseeker flamer.
-     * - Hetairoi aurei
-       - 0
-       - * 3x Vertus Praetor con interceptor lance e Salvo Launcher
-     * - Katáphraktos 
-       - 0
-       - 2x Allarus Custodians con lanciagranate e Guardian Spear
+
+  .. list-table::
+   :widths: 5 1 10
+   :header-rows: 1
+
+   * - Nome
+     - Exp
+     - Contenuto
+   * - Calaxor, il Falangita
+     - 8
+     - * 1x Shield-captain on Dawneangle jetbike, Renowned Heros(Admonimortis), interceptor lance, salvo launcher, general, Improve weapon, +1 F e D 
+   * - Severiur, Esecutore ultimo
+     - 6
+     - * 1x Blade Champion, RenownedHeros(Radiant Hero), vaultsword, Relic emperor'light
+   * - Pezhetaíroi neri
+     - 10
+     - * 4x Custodian Guard con Guardian Spear, Companion's watch
+   * - Hypaspistai bianchi
+     - 10
+     - * 5x Custodian Warden con Guardian Spear
+       * 1x Vexilla, Flawless Bladework
+   * - Cercatrici notturne
+     - 2
+     - * 1x Prosecutor Sister Superior con boltgun e Close Combact Weapon
+       * 3x Prosecutor con boltgun e Close Combact Weapon
+   * - Sorelle del focolare
+     - 2
+     - * 1x Witchseeker Sister Superior con close Combact weapon e Witchseeker flamer
+       * 4x Witchseeker con close Combact weapon e Witchseeker flamer, Lions, not wolves
+   * - Ignifere seleniche
+     - 1
+     - * 1x Witchseeker Sister Superior con close Combact weapon e Witchseeker flamer
+       * 3x Witchseeker con close Combact weapon e Witchseeker flamer.
+   * - Hetairoi aurei
+     - 5
+     - * 3x Vertus Praetor con interceptor lance e Salvo Launcher, Lions, not wolves
+   * - Katáphraktos
+     - 1
+     - 2x Allarus Custodians con lanciagranate e Guardian Spear
+   * - Alba dorata
+     - 5
+     - * 1x Caladius Grav-tank
+       * 1x Twin Arachnus heavy blaze cannon 
+       * 1x Twin Lastrum bolt cannon 
+       * 1x Armored Hull

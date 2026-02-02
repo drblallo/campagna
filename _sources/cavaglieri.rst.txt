@@ -14,46 +14,53 @@ Ordine di armata
 ================
 
 
-* Limite punti: 1400 (usati 1370)
-* Punti Requisizione: 3
+* Limite punti: 1500 (usati 1370)
+* Punti Requisizione: 4 
 
 .. list-table:: 
-   :widths: 5 1 10
-   :header-rows: 1
-
-   * - Nome
-     - Exp
-     - Contenuto
-   * - Sir Thymoteus Hawkwood
-     - 8
-     - * Knight Warden
-       * Battle Honour: Finely Balanced + Masterworked
-       * Renowned Heros(Mentors's pride)
-   * - Sir Shinji Hawkwood
-     - 0
-     - Knight Lancer
-   * - Sir Bedevere
-     - 7
-     - * Armiger Warglaive
-       * Battle Honour: Heirloom + brutal
-   * - Sir Robin
-     - 7
-     - * Battle Honour: Heirloom + brutal
-       * Armiger Warglaive
-   * - Sir Galahad
-     - 4
-     - * Armiger Warglaive
-   * - Sir Lancel
-     - 4
-     - * Armiger Helverin
-   * - Ministrorum Priest
-     - 2
-     - 
+  :widths: 5 1 10
+  :header-rows: 1
+  
+  * - Nome
+    - Exp
+    - Contenuto
+  * - Nome: Sir Thymoteus Hawkwood
+    - 9
+    -
+  * - Knight Warden
+    - 0 
+    - * Battle Honour: Finely Balanced + Masterworked
+      * Renowned Heroes(Mentors's pride)
+  * - Sir Shinji Hawkwood
+    - 7
+    - * Knight Lancer
+      * Renown Heroes (Pennant of Silvered Fury)
+  * - Sir Bedevere
+    - 7
+    - * Armiger Warglaive
+      * Battle Honour: Heirloom + brutal
+      * Mastery of the Joust: Landstrider (+2” al movimento)
+  * - Sir Robin
+    - 7
+    - * Armiger Warglaive
+      * Battle Honour: Heirloom + brutal
+      * Mastery of the Joust: Landstrider (+2” al movimento)
+  * - Sir Galahad
+    - 7
+    - * Armiger Warglaive
+      * Battle Honour: Heirloom + finely balanced
+      * Mastery of the Joust: Landstrider (+2” al movimento)
+  * - Sir Lancel
+    - 4
+    - * Armiger Helverin
+  * - Ministrorum Priest
+    - 2
+    - 
 
 .. code-block:: rst
 
-  * Limite punti: 1400 (usati 1370)
-  * Punti Requisizione: 3
+  * Limite punti: 1500 (usati 1370)
+  * Punti Requisizione: 4 
 
   .. list-table:: 
      :widths: 5 1 10
@@ -62,29 +69,33 @@ Ordine di armata
      * - Nome
        - Exp
        - Contenuto
-     * - Sir Thymoteus Hawkwood
-       - 8
-       - * Knight Warden
-         * Battle Honour: Finely Balanced + Masterworked
-         * Renowned Heros(Mentors's pride)
-     * - Sir Shinji Hawkwood
-       - 0
-       - Knight Lancer
-     * - Sir Bedevere
-       - 
-       - 7
-       - * Armiger Warglaive
-         * Battle Honour: Heirloom + brutal
-     * - Sir Robin
-       - 7
-       - * Battle Honour: Heirloom + brutal
-         * Armiger Warglaive
-     * - Sir Galahad
-       - 4
-       - * Armiger Warglaive
-     * - Sir Lancel
-       - 4
-       - * Armiger Helverin
-     * - Ministrorum Priest
-       - 2
-       - 
+   * - Nome: Sir Thymoteus Hawkwood
+     - 9
+     -
+   * - Knight Warden
+     - 0 
+     - * Battle Honour: Finely Balanced + Masterworked
+       * Renowned Heroes(Mentors's pride)
+   * - Sir Shinji Hawkwood
+     - 7
+     - * Knight Lancer
+       * Renown Heroes (Pennant of Silvered Fury)
+   * - Sir Bedevere
+     - 7
+     - * Armiger Warglaive
+       * Battle Honour: Heirloom + brutal
+       * Mastery of the Joust: Landstrider (+2” al movimento)
+   * - Sir Robin
+     - 7
+     - * Armiger Warglaive
+       * Battle Honour: Heirloom + brutal
+       * Mastery of the Joust: Landstrider (+2” al movimento)
+   * - Sir Galahad
+     - 7
+     - * Armiger Warglaive
+       * Battle Honour: Heirloom + finely balanced
+       * Mastery of the Joust: Landstrider (+2” al movimento)
+   * - Sir Lancel
+     - 4
+     - * Armiger Helverin
+

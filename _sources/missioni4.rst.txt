@@ -1,0 +1,96 @@
+Scenari 14/1/2026
+=================
+
+Adeptus Custodes VS Imperial Knights
+------------------------------------
+
+**Descrizione Imperial Knights (Difensore)**
+
+Dopo inaspettate battaglie, la posizione dei cavalieri imperiali si è finalmente stabilizzata grazie al temporaneo accordo di non belligeranza con le mostruoità del warp. Gli space marine e Adeptus Custodes sono ora il problema principale che deve essere eliminato dal pianeta. 
+**Thymotheus Hawkwood** è al centro dei piani degli agenti imperiali, e deve essere protetto.
+
+
+**Descrizione Adeptus Custodes (Attaccante)**
+
+Finalmente la siluette della capitale planetaria sono all'orizzonte, e tra i suoi edifici si vedono i flash di luce delle armi utilizzate contro i poxwalker che si aggirano tra le strade.
+
+Da qualche parte, tra le strade, vi è **Thymotheus Hawkwood**, il bersaglio della nostra missione.
+
+.. figure:: _static/imgs/m41.png
+   :width: 400px
+   :align: center
+
+   dimensione tavolo: 44x50
+
+**Creazione del campo di battaglia**
+Il campo di battaglia deve essere costruito come un normale campo di battaglia tipico di missioni a 2000 punti, 10 pollici dal lato sinistro del tavolo, e non contano come parte del tavolo. (Il tavolo è quindi largo 50 pollici).
+Tutti gli elementi scenici sono comunque posizionati.
+
+
+**Obbiettivo primari**
+Dal secondo turno in poi, i giocatori ottengono 5PV primari per ogni obbiettivo non nella loro di schieramento che controllano, eccetto l'ultimo turno di gioco, in cui i punti sono assegnati alla fine del turno secondo le stesse condizioni.
+
+**Obbiettivi secondari**
+I giocatori ottengono 4 punti vittoria secondary per ogni unità nemica che distruggono.
+
+
+**Regole speciali**
+
+**Thymotheus Hawkshroud**: Quando un modello è schierato il difensore rivela se quel modello è **Thymotheus Hawkshroud**. Quando Thymotheus è distrutto, il difensore deve piazzare un nuovo segnalino obbiettivo sotto la sua basetta prima di rimuoverlo. 
+
+**Poxwalkers**: se all'inizio di un turno non ci sono almeno 15 poxwalker sul tavolo, i giocatori si alternano, partendo dal non di turno, a piazzare unità di 5 poxwalker interamente entro entro il raggio di un obbiettivo, anche in contatto con un modello già presente.
+Alla fine di ogni fase di movimenti i poxwalker si muovono, terminando il movimento verso il modello non poxwalker più vicino. Possono entrare in mischia con modelli non poxwalker. I poxwalker in mischia combattono dopo che ogni altro modello ha combattuto. 
+
+**Fine partita**: 
+Se l'attaccante vince, cattura **Thymotheus Hawkshroud**, completando così uno dei suoi obbiettivi primari della campagna.
+
+Se il difensore vince, ottiene 200 requsizione gratuitamente e **Thymotheus Hawkshroud**  diventa parte del suo ordine di crociata, inoltre progredisce del 50% nel suo obbiettivo di eliminare gli adeptus custodes dal pianeta.
+
+
+Space Wolfes VS Death Guard  
+---------------------------
+
+**Descrizione Deathguard (Attaccante)**
+
+Un'alleanza temporanea è stata stretta con la casata **Hawkwood**, **Fecundus**  può ora concentrarsi sul trovare la prigione celeste. Le mosche nascoste nelle forze imperiali riportano che anche i lupi siderali desiderano recarsi alla tomba di Yannulf.
+
+Forse sarà possibile organizzare un agguato...
+
+**Descrizione Spacewolf (Difensore)**
+
+**Blackmane**, pur sospettoso dei reali obbiettivi dell'**Adeptus Custodes** accetta di essere accompagnato da una unità dei prettoriani mentre si dirigono ad adempire a uno degli obbiettivi primari della **Solblade**, recuperare la salma di **Yannulf**. 
+
+Mentre si avventurano nella direzione del tempio del lupo, una trappola scatta, organizzata dalle forze del chaos.
+
+
+.. figure:: _static/imgs/m41.png
+   :width: 400px
+   :align: center
+
+   dimensione tavolo: 44x30
+
+**Creazione del campo di battaglia**
+Il campo di battaglia deve essere costruito come un normale campo di battaglia tipico di missioni a 2000 punti, 10 pollici dal lato sinistro del tavolo, e non contano come parte del tavolo. (Il tavolo è quindi largo 50 pollici).
+Tutti gli elementi scenici sono comunque posizionati. I due obbiettivi esterni includono alberi di nurgle come specificato nella missione precedente.
+
+**Schieramento**
+L'attaccante non schiera il suo esercito, invece è collocato interamente in riserva. Tutte le unità dell'attaccante hanno attacco in profondità. 
+
+**Obbiettivi Primari**: 
+
+Alla fine della fase comando dal secondo turno in poi, ogni giocatore ottiene 5 punti vittoria primari per ogni obbiettivo che controlla. Nell'ultimo turno di gioco i punti sono assegnati alla fine del turno invece che alla fine della fase comando.
+
+**Obbiettivi Secondari**:
+
+**Alberi Di Nurgle**: 
+Gli **alberi** di nurgle sono modelli con un profilo difensivo di un grande immondo. Possono essere bersagliati da attacchi, ma non è possibile interagire con essi in nessun altra maniera. Il difensore ottiene 1 PV secondario per ogni ferita inferta a un albero.
+Mentre entrambi gli alberi di nurgle sono presenti sul tavolo, un modello di nurgle che termina un movimento interamente all'interno del range di un obbiettivo vicino a un albero, può essere rimosso dal tavolo e posizionato entro il range dell'altro obbiettivo con un albero di nurgle. Alberi che raggiungono zero ferite rimaste non sono comunque distrutti.
+
+**Divenire tutt'uno con le piaghe di padre nurgle** Durante la fase comando dell'attaccante, egli può rimuovere dal gioco modelli non sciame e non poxwalker che sono nel range dell'obbiettivo di un albero di nurgle. Se lo fa, restituisci una ferita per ogni ferita rimasta al modello rimosso. Ottieni un punto vittoria secondario per ogni ferita riottenuta in questa maniera.
+
+**Regole speciali**
+**Sotto lo sguardo di custodi non desiderati**: L'esercito del difensore include una unità di custodian guard composta da 3 modelli. Tutte le volte che tale unità distrugge un modello, l'attaccante perde X punti vittoria secondari dove X è il numero di ferite di quel modello. Tale unità deve essere collocata in attacco in profondità.
+
+**Fine partita**: 
+Il vincitore avrà bonus significativi nella prossima missione relativa a ottenere la salma di **Yannulf**.
+
