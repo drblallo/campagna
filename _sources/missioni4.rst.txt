@@ -89,7 +89,7 @@ Mentre entrambi gli alberi di nurgle sono presenti sul tavolo, un modello di nur
 **Divenire tutt'uno con le piaghe di padre nurgle** Durante la fase comando dell'attaccante, egli può rimuovere dal gioco modelli non sciame e non poxwalker che sono nel range dell'obbiettivo di un albero di nurgle. Se lo fa, restituisci una ferita per ogni ferita rimasta al modello rimosso. Ottieni un punto vittoria secondario per ogni ferita riottenuta in questa maniera.
 
 **Regole speciali**
-**Sotto lo sguardo di custodi non desiderati**: L'esercito del difensore include una unità di custodian guard composta da 3 modelli. Tutte le volte che tale unità distrugge un modello, l'attaccante perde X punti vittoria secondari dove X è il numero di ferite di quel modello. Tale unità deve essere collocata in attacco in profondità.
+**Sotto lo sguardo di custodi non desiderati**: L'esercito del difensore include una unità di custodian guard composta da 3 modelli. Tutte le volte che tale unità distrugge un modello, il difensore perde X punti vittoria secondari dove X è il numero di ferite di quel modello. Tale unità deve essere collocata in attacco in profondità.
 
 **Fine partita**: 
 Il vincitore avrà bonus significativi nella prossima missione relativa a ottenere la salma di **Yannulf**.
