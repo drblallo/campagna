@@ -1,0 +1,47 @@
+Scenari 14/1/2026
+=================
+
+Adeptus Custodes VS Imperial Knights
+------------------------------------
+
+**Descrizione Imperial Knights (Attaccante)**
+
+Gli agenti imperiali hanno catturato il loro bersaglio, ma, misteriosamente, invece di tentare di catturare anche il resto dei camminatori della casata si stanno ritirando. Qualcosa di significativo di importante deve essere in corso. Forse questa è un opportunità che non dobbiamo lasciarci scappare.
+
+
+**Descrizione Adeptus Custodes (Difensore)**
+
+Assicurato l'obbiettivo principale, i prettoriani dell'imperatore disingaggiano. Il prossimo obbiettivo più significativo è impedire che il segreto di Yannulf venga rivelato, anche a costo di interferire con le attività dei lupi siderali. Raggiungere in tempo il tempio del lupo non sarà facile, soprattutto mentre i falchi predano alle nostre spalle.
+
+
+.. figure:: _static/imgs/m51.png
+   :width: 400px
+   :align: center
+
+   dimensione tavolo: 44x60
+
+**Creazione del campo di battaglia**
+Il campo di battaglia deve essere costruito come un normale campo di battaglia tipico di missioni a 2000 punti. Entrambi i giocatori considerano lo stesso lato corto del tavolo come il loro lato di schieramento. 
+L'intero tavolo è considerato terra di nessuno. 
+
+**Schieramento**
+Tutto l'esercito dell'attaccante deve iniziare la partita in riserva. Le unità dell'attaccante non possono entrare in gioco dal bordo opposto al suo bordo del tavolo. Possono entrare in gioco dai bordi lunghi del tavolo a partire dal quarto turno di gioco in poi.  Le unità dell'attaccante che entrano in gioco partendo da un bordo del tavolo possono farlo anche a meno di 9 pollici da unità nemiche.
+
+Tutte Le unità del difensore iniziano la partita in riserva. Le unità del difensore possono entrare in gioco dal bordo del tavolo a partire dal primo turno. Le unità del difensore che iniziano la partita in riserva non possono compiere attacchi in profondità fino a che non sono stati piazzati almeno una volta normalemente.  Le unità del difensore che non entrano in gioco usando attacco in profondità possono entrare in gioco solo partendo dal loro bordo del tavolo. 
+
+**Primo giocatore**
+L'attaccante ha il primo turno.
+
+**Obbiettivo primari**
+All'inizio di ogni suo turno, il difensore ottiene 5 punti per ogni obbiettivo che controlla, fino a un massimo di 10. All'inizio di ogni suo turno, l'attaccante ottiene 5 punti vittoria per ogni obbiettivo che il difendere non controlla, fino a un massimo di 10. Se un giocatore dovrebbe ottenere più di 10 punti vittoria, egli decide quale obbiettivi non generano punti vittoria. Dopo che un obbiettivo ha generato 15 punti vittoria totali, rimuovilo dal tavolo.
+
+**Obbiettivi secondari**
+Ogni volta che un modello del difensore è distrutto, l'attaccante ottiene un punto vittoria secondario.
+
+Ogni volta che il difensore porta un modello in contatto con il bordo opposto del tavolo rispetto al suo, rimuovi quel modello, il possessore ottiene punti vittoria secondari pari al loro numero di ferite rimaste.
+
+
+**Fine partita**: 
+Il vincitore avrà un significativo vantaggio nella prossima missione, localizzata al tempio del lupo
+
+
