@@ -19,4 +19,5 @@
    ./missioni3.rst
    ./missioni4.rst
    ./missioni5.rst
+   ./missioni6.rst
 

@@ -1,0 +1,39 @@
+Scenari 12/3/2026
+=================
+
+Deathguard VS Imperial Knights
+------------------------------------
+
+**Descrizione Imperial Knights (Attaccante) VS Deathguard (Difensore)**
+
+Gli imperiali combattono tra loro! Con i nemici distratti in contesa per salma di lord Yannulf, Sir Hawkwood prende l'occasione per tentare di eliminare una volta per tutte dal pianeta uno dei problemi.
+
+
+.. figure:: _static/imgs/m61.png
+   :width: 400px
+   :align: center
+
+   dimensione tavolo: 44x60
+
+**Creazione del campo di battaglia**
+Il campo di battaglia deve essere costruito come un normale campo di battaglia tipico di missioni a 2000 punti. 
+
+**Primo giocatore**
+L'attaccante ha il primo turno.
+
+**Obbiettivo primari**
+Dal secondo turno in poi, i giocatori ottengono 5PV primari per ogni obbiettivo non nella loro di schieramento che controllano, eccetto l'ultimo turno di gioco, in cui i punti sono assegnati alla fine del turno secondo le stesse condizioni.
+
+**Obbiettivi secondari**
+Purgare e corrompere. Il difensore, fino a 3 volte per turno, durante la propria fase di tiro, può selezionare una delle proprie unità non ingaggiata interamente entro un elemento scenico non **contaminato**. Tale unità non può sparare o caricare. Tale elemento scenico diventa **contaminato**, e il giocatore ottiene 5 punti vittoria secondari.
+L'attaccante, un qualsiasi numero di volte per turno, durante la propria fase di tiro, può selezionare una delle proprie unità non ingaggiate interamente entro un elemento scenico **contaminato**. Tale unità può sparare con al più una delle sue armi e non può caricare. Tale elemento scenico non è più **contaminato** e il giocatore ottiene 7 punti vittoria secondari.
+
+**Regole speciali**
+**Pagare per i propri peccati**: Tieni traccia di quante unità sono distrutte da Sir Hawkwood. Se alla fine della partita Sir Hawkwood non è distrutto, distrugge 4 o più unità nemiche, scegli una delle sue armi da mischia, per il resto della **campagna** tale arma ottiene la regola devastating wounds. Se Sir Hawkwood è distrutto, Sir Hawkwood muore e viene sostuito da un altro personaggio identico (può essere uno degli altri piloti già usati). 
+
+
+**Fine partita**: 
+Se l'attaccante vince, non è più assoggettato agli dei del chaos.  
+Se il difensore vince, l'attaccante è permanentemente assoggettato agli dei del chaos. 
+
+
