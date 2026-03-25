@@ -35,3 +35,34 @@ Gli attacchi delle unità contaminate subiscono un -1 alla forza per ogni punto 
 Il vincitore sconfigge l'armata nemica e determina quale delle due ha supremazia sul pianeta tra loro due.
 
 
+Space wolves VS Custodes 
+------------------------------------
+
+**Descrizione Space wolves (Attaccante) VS Custodes (Difensore)**
+
+I prettoriani dell'imperatore ci vogliono sottrarre ciò che è nostro! Non glielo permetteremo neanche a costo della morte.
+
+
+.. figure:: _static/imgs/m21.png
+   :width: 400px
+   :align: center
+
+   dimensione tavolo: 44x60
+
+**Creazione del campo di battaglia**
+Il campo di battaglia deve essere costruito come un normale campo di battaglia tipico di missioni a 2000 punti. 
+
+**Primo giocatore**
+L'attaccante ha il primo turno.
+
+**Obbiettivo primari**
+Dal secondo turno in poi, i giocatori ottengono 5PV primari per ogni obbiettivo non nella loro di schieramento che controllano, eccetto l'ultimo turno di gioco, in cui i punti sono assegnati alla fine del turno secondo le stesse condizioni.
+
+**Obbiettivi secondari**
+Appena il modello di Rotigus diventa disponibile, esso appare immediatamente il più vicino possibile al centro del tavolo. Rotigus ha 100 ferite, ogni volta che subisce una ferita, il giocatore che gliela ha inferta ottiene 1 punto vittoria. Rotigus muove, spara e carica contro il modello più vicino.
+
+
+**Fine partita**: 
+Il vincitore sconfigge l'armata nemica e determina quale delle due ha supremazia sul pianeta tra loro due.
+
+
