@@ -1,0 +1,37 @@
+Scenari 25/3/2026
+=================
+
+Deathguard VS Imperial Knights
+------------------------------------
+
+**Descrizione Imperial Knights (Difensore) VS Deathguard (Attaccante)**
+
+Mentre gli imperiali combattevano tra loro, le mosche di nurgle hanno avuto l'opportunità di rubare la lama del lupo dalla sua tomba, e spezzarla, liberando Rotigus dalla sua prigione.   
+
+
+.. figure:: _static/imgs/m21.png
+   :width: 400px
+   :align: center
+
+   dimensione tavolo: 44x60
+
+**Creazione del campo di battaglia**
+Il campo di battaglia deve essere costruito come un normale campo di battaglia tipico di missioni a 2000 punti. 
+
+**Primo giocatore**
+L'attaccante ha il primo turno.
+
+**Obbiettivo primari**
+Dal secondo turno in poi, i giocatori ottengono 5PV primari per ogni obbiettivo non nella loro di schieramento che controllano, eccetto l'ultimo turno di gioco, in cui i punti sono assegnati alla fine del turno secondo le stesse condizioni.
+
+**Obbiettivi secondari**
+Purgare e corrompere. L'attaccante,  durante la propria fase di tiro, può selezionare una delle proprie unità non entro 6' da una unità nemica. Tale unità non può sparare o caricare ma può combattere se è già in mischia. Aumenta il valore di contaminazione di 1 per tale untà nemica e ottieni 3 punti vittoria secondari.
+Il difensore, un qualsiasi numero di volte per turno, durante la propria fase di tiro, può selezionare una delle proprie unità entro 6' da un unità amica contaminata. Tale unità può sparare con al più una delle sue armi e non può caricare ma può combattere se è già in mischia. Riduci il valore contaminazione di tale unità di 1, e ottieni 5 punti vittoria.  
+
+Gli attacchi delle unità contaminate subiscono un -1 alla forza per ogni punto contaminazione fino a un massimo di -3. Gli attacchi delle unità non contaminate beneficiano di +1 alla forza.
+
+
+**Fine partita**: 
+Il vincitore sconfigge l'armata nemica e determina quale delle due ha supremazia sul pianeta tra loro due.
+
+
