@@ -1,0 +1,70 @@
+Scenari 25/3/2026
+=================
+
+Deathguard VS Adeptus Custodes 
+------------------------------------
+
+**Descrizione Deathguard (Attaccante) VS Adeptus Custodes(Difensore)**
+
+Rotigus emerge dalla sua prigione! Ora è il momento di devastare i cani imperiali che lo hanno intrappolato. 
+
+
+.. figure:: _static/imgs/m21.png
+   :width: 400px
+   :align: center
+
+   dimensione tavolo: 44x60
+
+**Creazione del campo di battaglia**
+Il campo di battaglia deve essere costruito come un normale campo di battaglia tipico di missioni a 2000 punti. 
+
+**Primo giocatore**
+L'attaccante ha il primo turno.
+
+**Obbiettivo primari**
+Dal secondo turno in poi, i giocatori ottengono 5PV primari per ogni obbiettivo non nella loro di schieramento che controllano, eccetto l'ultimo turno di gioco, in cui i punti sono assegnati alla fine del turno secondo le stesse condizioni.
+
+**Obbiettivi secondari**
+**Distese di fiori di carne**
+Ogni volta che un unità dell'attaccante è distrutta, piazza un segnalino al posto dell'ultimo modello rimosso. Tale segnalino indica un **Campo di fiori di carne**. 
+
+Quando una unità dell'attaccante termina un qualsiasi movimento a meno di 6' da tale segnalino, essa raccoglie i fiori di carne, e ottiene 5 pv secondari. Tale unità è **adornata con i fiori di carne** e ottiene +1 alla resistenza. Rimuovi il segnalino.
+
+Quando una unità del difensore termina un qualsiasi movimento a meno di 6' da un tale segnalino, essa purga i fiori di carne, e ottiene  10 pv secondari. Tale unità **risplende di teofasia** e ottiene +1 alla forza di tutti i suoi attacchi. Rimuovi il segnalino.
+
+**Fine partita**: 
+Il vincitore sconfigge l'armata nemica e determina quale delle due ha supremazia sul pianeta tra loro due.
+
+
+Space wolves VS Imperial knights 
+------------------------------------
+
+**Descrizione Space wolves (Attaccante) VS Imperial Knights (Difensore)**
+
+Il corpo di Wannulf il lupo è stato distrutto nel breve conflitto tra Lupi Siderali e Adeptus Custodes. Non rimane niente, se non la rabbia dei figli di Russ per tutte le altre forze presenti sul pianeta.
+
+.. figure:: _static/imgs/m21.png
+   :width: 400px
+   :align: center
+
+   dimensione tavolo: 44x60
+
+**Creazione del campo di battaglia**
+Il campo di battaglia deve essere costruito come un normale campo di battaglia tipico di missioni a 2000 punti. 
+
+**Primo giocatore**
+L'attaccante ha il primo turno.
+
+**Obbiettivo primari**
+Dal secondo turno in poi, i giocatori ottengono 5PV primari per ogni obbiettivo non nella loro di schieramento che controllano, eccetto l'ultimo turno di gioco, in cui i punti sono assegnati alla fine del turno secondo le stesse condizioni.
+
+**Obbiettivo secondari**
+Ogni volta che distruggi una unità del nemico, ottieni 3 PV secondari. 6 PV vittoria se l'unità distrutta è un mostro o veicolo.
+
+**Regole speciali**
+**Guerra totale**: All'inizio di ogni turno dopo il secondo, aggiungi alle tue riserve una tua unità completamente distrutta con costo inferiore a 150 punti.
+
+**Fine partita**: 
+Il vincitore sconfigge l'armata nemica e determina quale delle due ha supremazia sul pianeta tra loro due.
+
+
