@@ -1,0 +1,81 @@
+Scenari 20/5/2026
+=================
+
+Deathguard VS Space Wolves 
+------------------------------------
+
+**Descrizione Deathguard (Difensore) VS Space Wolves(Attaccante)**
+
+La battaglia finale per l'anima del pianeta è giunta. I lupi siderali si spingono nei territori corrotti della Deathguard cercando di trovare i portali nel warp da cui le legioni demoniache emergono. 
+
+.. figure:: _static/imgs/m21.png
+   :width: 400px
+   :align: center
+
+   dimensione tavolo: 44x60
+
+**Creazione del campo di battaglia**
+Il campo di battaglia deve essere costruito come un normale campo di battaglia tipico di missioni a 2000 punti. 
+
+Piazza elementi scenici ad albero sopra ai due segnalini obbiettivo nella terra di nessuno non centrali.
+
+
+**Primo giocatore**
+L'attaccante ha il primo turno.
+
+**Obbiettivo primari**
+Dal secondo turno in poi, i giocatori ottengono 5PV primari per ogni obbiettivo non nella loro di schieramento che controllano, eccetto l'ultimo turno di gioco, in cui i punti sono assegnati alla fine del turno secondo le stesse condizioni.
+
+**Obbiettivi secondari**
+**Cuore del contagio**
+All'inizio di ogni round seleziona casualmente due elementi scenici interamente nella terra di nessuno. Tali elementi scenici sono **infestati dalla presenza del Warp** fino alla fine del round. Alla fine di un turno di un giocatore, se quel giocatore ha un unità interamente all'interno di tale elemento scenico, quel giocatore ottiene 4 PV.
+
+**Regole speciali**
+
+**Alberi sussurrano ultimatum**
+Se all'inizio di un turno del difensore egli controlla un obbiettivo su cui è posizionato un albero, per ogni tale obbiettivo controllato, seleziona un unità entro 12", tale unità riceve un -1 alla resistenza fino all'inizio del tuo prossimo turno.
+
+**Shock psichico**
+Se all'inizio di un turno dell'attaccante egli controlla entrambi gli obbiettivi su cui è posizionato un albero, egli può distruggere gli alberi. Se lo fa rimuovi gli elementi scenici. Fino all'inizio del prossimo turno dell'attaccante tutti i modelli del difensore subiscono un -1 alla forza di tutte le loro armi.
+
+
+**Fine partita**: 
+Il vincitore sconfigge l'armata nemica e determina quale delle due ha supremazia sul pianeta tra loro due.
+
+
+Adeptus Custodes VS Imperial knights 
+------------------------------------
+
+**Descrizione Adeptus Custodes (Attaccante) VS Imperial Knights (Difensore)**
+La guerra giunge al suo termine. La casata di imperial knights si è spesa per difendere il loro pianeta. Tutto quello che rimane ormai è misurare quanta ultima devastazione è possibile infliggere al nemico imperiale prima che si ritiri nei cieli da cui è venuto.
+
+
+.. figure:: _static/imgs/m21.png
+   :width: 400px
+   :align: center
+
+   dimensione tavolo: 44x60
+
+**Creazione del campo di battaglia**
+Il campo di battaglia deve essere costruito come un normale campo di battaglia tipico di missioni a 2000 punti. 
+
+**Primo giocatore**
+L'attaccante ha il primo turno.
+
+**Obbiettivo primari**
+Dal secondo turno in poi, i giocatori ottengono 5PV primari per ogni obbiettivo non nella loro di schieramento che controllano, eccetto l'ultimo turno di gioco, in cui i punti sono assegnati alla fine del turno secondo le stesse condizioni.
+
+**Obbiettivi secondari**
+
+**Stabilire i legittimi sovrani del pianeta**: Ogni elemento scenico parzialmente o interamente nella terra di nessuno si comporta come un obbiettivo primario che concede 2 punti vittoria secondari invece di 5. Tali obbiettivi non sono considerati obbiettivi primari al fine di risolvere regole di modelli.
+
+**Regole speciali**
+
+**Non sono ancora morto**: Una volta per giocatore per partita, dopo che una unità alleata è stata distrutta, aggiungi una copia di quella unità alle tue riserve con metà delle ferite rimaste.
+
+**Demolizione**: Dall'inizio del terzo round in poi, durante la tua fase di tro, una unità alleata dotata di armi da tiro con forza pari o superiore a 9 elegibile per sparare, può decidere di non sparare, selezionare un elemento scenico entro 24", e rimuovere tale elemento scenico dal tavolo. Questa regola può essere usata al massimo una volta per turno. 
+
+**Fine partita**: 
+Il vincitore sconfigge l'armata nemica e determina quale delle due ha supremazia sul pianeta tra loro due.
+
+
